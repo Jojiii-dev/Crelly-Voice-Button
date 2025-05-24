@@ -4,7 +4,7 @@
       <VCardText>
         <VTextField
           v-model="search"
-          placeholder="搜尋"
+          placeholder="Search for sound..."
           variant="outlined"
           color="primary"
           append-icon="mdi-magnify"
@@ -26,7 +26,7 @@
       v-if="filteredSounds.length === 0 && !isSearching && !!search"
       class="text-center"
     >
-      什麼都沒找到🥲
+      can't find shit🥲
     </div>
 
     <VTabs v-if="!isSearching" class="mb-3" hide-slider>
@@ -52,12 +52,13 @@
         id="group-btn-new"
       >
         <VExpansionPanelTitle>
-          <span class="text-2xl">最近更新</span>
+          <span class="text-2xl">Recently Added</span>
         </VExpansionPanelTitle>
 
         <VExpansionPanelText>
           <VBtn
-            v-for="voice in newSounds" :key="voice.name"
+            v-for="voice in newSounds"
+            :key="voice.name"
             @click="playSound(voice.path, voice.description.zh)"
             class="sound_btn !rounded-[28px] overflow-hidden"
             :color="
@@ -302,7 +303,7 @@ watch(
 watch(
   () => soundSettings.value.loop,
   (v) => {
-    toast(v ? '開啟循環播放' : '關閉循環播放');
+    toast(v ? 'Looping on' : 'Looping off');
   }
 );
 
@@ -367,7 +368,7 @@ const playSound = async (soundPath: string, soundName: string) => {
   }
 
   if (!fetchPassed) {
-    toast('找不到聲音檔案');
+    toast('Cannot find the sound file');
     return;
   }
 
@@ -425,7 +426,7 @@ const doShare = () => {
       currentSound.path
     )}&name=${encodeURIComponent(currentSound.name)}`
   );
-  toast('已複製到剪貼簿');
+  toast('Copied to clipboard!');
 };
 
 const hasClipboard = ref(true);

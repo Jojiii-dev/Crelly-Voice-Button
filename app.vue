@@ -6,7 +6,7 @@
       </template>
       <VAppBarTitle>
         <div class="flex items-center">
-          <NuxtLink class="font-bold" to="/">【玖玖巴按鈕】</NuxtLink>
+          <NuxtLink class="font-bold" to="/">Crelly Soundboard</NuxtLink>
         </div>
       </VAppBarTitle>
     </VAppBar>
@@ -19,7 +19,7 @@
               <VIcon>mdi-home</VIcon>
             </div>
           </template>
-          <VListItemTitle>首頁</VListItemTitle>
+          <VListItemTitle>Home</VListItemTitle>
         </VListItem>
         <template v-for="(linkGroup, index) in links">
           <VListItem
@@ -58,7 +58,7 @@
         <VListItem
           to="/about"
           prepend-icon="mdi-text-box-search"
-          title="關於"
+          title="About"
         />
       </template>
     </VNavigationDrawer>
