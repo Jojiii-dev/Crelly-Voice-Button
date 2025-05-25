@@ -6,7 +6,9 @@
       </template>
       <VAppBarTitle>
         <div class="flex items-center">
-          <NuxtLink class="font-bold" to="/">Crelly the Cow 🐄🤠💩🦶</NuxtLink>
+          <NuxtLink class="font-bold" to="/">
+            Crelly the Cow 🐄💩🦶 Soundboard
+          </NuxtLink>
         </div>
       </VAppBarTitle>
     </VAppBar>

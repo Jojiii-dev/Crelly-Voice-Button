@@ -28,9 +28,7 @@ export default defineNuxtConfig({
         { hid: 'og:url', property: 'og:url', content: site.title },
         { hid: 'og:title', property: 'og:title', content: site.title },
         { hid: 'og:description', property: 'og:description', content: site.description },
-        { hid: 'og:image', property: 'og:image', content: site.social_image },
         { name: 'twitter:card', content: 'summary_large_image' },
-        { name: 'twitter:site', content: site.twitter_user },
         { name: "theme-color", content: site.theme_color }
       ]
     },
