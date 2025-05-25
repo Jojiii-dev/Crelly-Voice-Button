@@ -39,4 +39,4 @@ jobs:
         uses: nuxt-hub/action@v1
         id: deploy
         with:
-          project-key: crelly-voice-bu-u9sf
+          project-key: crelly-soundboa-8rdb
