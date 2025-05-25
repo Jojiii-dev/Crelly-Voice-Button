@@ -26,7 +26,7 @@
       v-if="filteredSounds.length === 0 && !isSearching && !!search"
       class="text-center"
     >
-      can't find shit🥲
+      Can't find any sound matching "{{ search }}". Please try again.
     </div>
 
     <VTabs v-if="!isSearching" class="mb-3" hide-slider>

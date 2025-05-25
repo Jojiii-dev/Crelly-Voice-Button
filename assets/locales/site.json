@@ -1,7 +1,7 @@
 {
-  "title": "Crelly Soundboard",
+  "title": "Crelly the Cow Soundboard 🐄🤠💩🦶",
   "description": "Silly Crelly Sounds",
-  "keywords": "VTuber VoiceButton Crelly Soundboard Silly Vore Poop Buh",
+  "keywords": "VTuber VoiceButton Crelly The Cow Soundboard Silly Vore Poop Buh Feet PooTuber Poo ",
   "url": "todo",
   "theme_color": "#00bc7d",
   "footer": {
@@ -12,10 +12,16 @@
       }
     ],
     "repo_link": "https://github.com/Jojiii-dev/Crelly-Voice-Button",
-    "content": "This site is made purly for fun. Not officailly associated with {0}. For more info please check {1} & {2}",
+    "content": "This site is just a fan made one for fun. Not officailly associated with {0}. For more info please check {1} & {2}",
     "content_params": [
-      { "name": "Crelly" },
-      { "name": "About", "link": "/about", "target": "" },
+      {
+        "name": "Crelly"
+      },
+      {
+        "name": "About",
+        "link": "/about",
+        "target": ""
+      },
       {
         "name": "Source Code",
         "link": "https://github.com/Jojiii-dev/Crelly-Voice-Button",

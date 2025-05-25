@@ -36,14 +36,6 @@ export const links: T_Link[][] = [
     },
     {
       icon: {
-        color: '#FF0032',
-        name: 'mdi-youtube'
-      },
-      title: 'Youtube',
-      url: 'https://www.youtube.com/channel/UCwxaNWg74VccV65gr_L6JZg'
-    },
-    {
-      icon: {
         color: '#1E9AF0',
         name: 'mdi-twitter'
       },
@@ -57,6 +49,14 @@ export const links: T_Link[][] = [
       },
       title: 'Discord',
       url: 'https://discord.gg/Syby6wNbKv'
+    },
+    {
+      icon: {
+        color: '#FF0032',
+        name: 'mdi-youtube'
+      },
+      title: 'Youtube',
+      url: 'https://www.youtube.com/channel/UCwxaNWg74VccV65gr_L6JZg'
     }
-  ],
+  ]
 ];
