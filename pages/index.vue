@@ -95,11 +95,12 @@
 
         <VExpansionPanelText>
           <VBadge
+            offset-x="15"
             v-for="voice in group.voice_list"
             :key="voice.name"
             :model-value="isIn7Days(voice.updated_at)"
             color="secondary-400"
-            content="新"
+            content="new"
           >
             <VBtn
               @click="playSound(voice.path, voice.description)"

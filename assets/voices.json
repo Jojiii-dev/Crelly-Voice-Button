@@ -1,20 +1,110 @@
 {
   "groups": [
     {
+      "group_name": "laughs",
+      "group_description": "😂",
+      "voice_list": [
+        {
+          "name": "4eae078c-0600-4a97-9c4f-ef9d80c4f017",
+          "path": "laughs/laugh1.mp3",
+          "description": "laugh1",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "3519f954-74a0-4a08-aa49-860bfdb36458",
+          "path": "laughs/laugh2.mp3",
+          "description": "laugh2",
+          "updated_at": 1748165858
+        }
+      ]
+    },
+    {
       "group_name": "quotes",
       "group_description": "Quotes",
       "voice_list": [
         {
-          "name": "acfb84b6-8e4d-4882-919e-3a00b03ddee6",
+          "name": "ea0ccc96-d646-4f9c-9e54-10ea3bb69e08",
           "path": "quotes/feet_as_a_treat.mp3",
           "description": "feet as a treat",
-          "updated_at": 1716614400
+          "updated_at": 1748165858
         },
         {
-          "name": "53416814-3826-49d7-a705-bdc26c9037a1",
-          "path": "quotes/wait_32.mp3",
+          "name": "9b5249c0-a654-4ac1-8d3f-13823d672b0c",
+          "path": "quotes/hbd.mp3",
+          "description": "Happy Birthday",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "95839b68-eaee-4614-a5fd-c79b79d58e44",
+          "path": "quotes/xdx_true.mp3",
+          "description": "xdx | true",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "5d5976a6-60b7-4819-ac23-c367a27cd484",
+          "path": "quotes/im_cringe.mp3",
+          "description": "I'm cringe",
+          "updated_at": 1748165858
+        }
+      ]
+    },
+    {
+      "group_name": "noises",
+      "group_description": "Noises",
+      "voice_list": [
+        {
+          "name": "0d461b3c-cc0e-4dbb-b920-e4c04f7bf29b",
+          "path": "noises/new_octave.mp3",
+          "description": "new octave",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "59abb04c-f51d-4931-9747-709d7442016e",
+          "path": "noises/wait_32.mp3",
           "description": "wait x32",
-          "updated_at": 1716614400
+          "updated_at": 1748165858
+        }
+      ]
+    },
+    {
+      "group_name": "blush",
+      "group_description": "😳",
+      "voice_list": [
+        {
+          "name": "d06a3ce3-8a93-4be7-8678-686ab8891758",
+          "path": "blush/smash_me_daddy.mp3",
+          "description": "smash me daddy",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "1f7d1c3e-7a08-4935-96c3-42c5111b3919",
+          "path": "blush/rizz.mp3",
+          "description": "rizz",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "6f25e249-15ed-4fa2-ae88-ff33cc39b067",
+          "path": "blush/distracting_head.mp3",
+          "description": "Distracting head",
+          "updated_at": 1748165858
+        }
+      ]
+    },
+    {
+      "group_name": "hums",
+      "group_description": "🎶",
+      "voice_list": [
+        {
+          "name": "04033bee-aad9-4183-8021-a1fb0fe7485f",
+          "path": "hums/bababababadadadadada.mp3",
+          "description": "ba ba ba ba ba da da da da da da da",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "ed28373c-cfcc-40d4-b238-e3303d81fe44",
+          "path": "hums/humming.mp3",
+          "description": "bum bum bum bum bum bum da da da da da~ da da",
+          "updated_at": 1748165858
         }
       ]
     }
