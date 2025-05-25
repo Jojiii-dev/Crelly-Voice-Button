@@ -33,14 +33,14 @@
       <VTab
         v-for="group in filteredSounds"
         :key="group.group_name"
-        class="text-secondary-600"
+        class="text-primary-200"
         @click="
           goTo(`#group-btn-${group.group_name}`, {
             offset: -100
           })
         "
       >
-        {{ group.group_description.zh }}
+        {{ group.group_description }}
       </VTab>
     </VTabs>
 
@@ -59,21 +59,21 @@
           <VBtn
             v-for="voice in newSounds"
             :key="voice.name"
-            @click="playSound(voice.path, voice.description.zh)"
+            @click="playSound(voice.path, voice.description)"
             class="sound_btn !rounded-[28px] overflow-hidden"
             :color="
-              currentPlayingSound?.name === voice.description.zh
+              currentPlayingSound?.name === voice.description
                 ? 'secondary'
                 : 'primary'
             "
             variant="flat"
-            :data-sound-name="voice.description.zh"
+            :data-sound-name="voice.description"
           >
             <div>
-              {{ voice.description.zh }}
+              {{ voice.description }}
             </div>
             <VProgressLinear
-              v-if="currentPlayingSound?.name === voice.description.zh"
+              v-if="currentPlayingSound?.name === voice.description"
               :model-value="currentPlayingSound?.progress"
               color="secondary"
               class="!absolute !bottom-0 !top-auto left-0 w-full"
@@ -89,7 +89,7 @@
       >
         <VExpansionPanelTitle>
           <span class="text-2xl">
-            {{ group.group_description.zh }}
+            {{ group.group_description }}
           </span>
         </VExpansionPanelTitle>
 
@@ -102,21 +102,21 @@
             content="新"
           >
             <VBtn
-              @click="playSound(voice.path, voice.description.zh)"
+              @click="playSound(voice.path, voice.description)"
               class="sound_btn !rounded-[28px] overflow-hidden"
               :color="
-                currentPlayingSound?.name === voice.description.zh
+                currentPlayingSound?.name === voice.description
                   ? 'secondary'
                   : 'primary'
               "
               variant="flat"
-              :data-sound-name="voice.description.zh"
+              :data-sound-name="voice.description"
             >
               <div>
-                {{ voice.description.zh }}
+                {{ voice.description }}
               </div>
               <VProgressLinear
-                v-if="currentPlayingSound?.name === voice.description.zh"
+                v-if="currentPlayingSound?.name === voice.description"
                 :model-value="currentPlayingSound?.progress"
                 color="secondary"
                 class="!absolute !bottom-0 !top-auto left-0 w-full"
@@ -265,7 +265,7 @@ const doSearch = () => {
       const isGroupMatch = group.group_name.includes(search.value);
 
       const filteredVoiceList = group.voice_list.filter((voice) =>
-        voice.description.zh.includes(search.value)
+        voice.description.includes(search.value)
       );
 
       return isGroupMatch || filteredVoiceList.length > 0
@@ -399,7 +399,7 @@ const playRandomSound = async () => {
   await nextTick();
   goTo(`#group-btn-${randomSoundGroup.group_name}`);
 
-  playSound(randomSound.path, randomSound.description.zh);
+  playSound(randomSound.path, randomSound.description);
 };
 
 const toggleSound = () => {

@@ -63,14 +63,14 @@
       </template>
     </VNavigationDrawer>
 
-    <VMain class="bg-primary-200">
+    <VMain class="bg-stone-900">
       <div class="flex flex-col h-full">
         <VContainer class="flex-1">
           <NuxtPage />
         </VContainer>
 
         <div>
-          <VFooter color="neutral" class="footer">
+          <VFooter class="footer">
             <VIcon>mdi-copyright</VIcon>
             <div class="w-1" />
             <div>

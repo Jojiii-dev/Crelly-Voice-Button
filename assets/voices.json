@@ -1,130 +1,20 @@
 {
   "groups": [
     {
-      "group_name": "566",
-      "group_description": {
-        "zh": "烏拉拉"
-      },
+      "group_name": "quotes",
+      "group_description": "Quotes",
       "voice_list": [
         {
-          "name": "af372691dc7bb11a92580cc518bef4f5",
-          "path": "566/烏拉拉_跟大家說掰掰.mp3",
-          "description": {
-            "zh": "烏拉拉~ 跟大家說掰掰"
-          },
-          "updated_at": 1742032157
+          "name": "acfb84b6-8e4d-4882-919e-3a00b03ddee6",
+          "path": "quotes/feet_as_a_treat.mp3",
+          "description": "feet as a treat",
+          "updated_at": 1716614400
         },
         {
-          "name": "bdf788161c6b68ddadc848a9e10a88be",
-          "path": "566/烏拉拉你是甚麼貓_母貓.mp3",
-          "description": {
-            "zh": "烏拉拉你是甚麼貓? 母貓"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "c42abe2fa1a1d35a90b87d4cf39a2d7d",
-          "path": "566/牛五花.mp3",
-          "description": {
-            "zh": "烏拉拉最近有個叫聲叫做...牛五哇，牛五花，牛五花，牛五哇。看來...牠對涅默很有意見"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "bcebd9f5644cb90fe688318d052cbce3",
-          "path": "566/飯飯.mp3",
-          "description": {
-            "zh": "飯飯"
-          },
-          "updated_at": 1739293290
-        }
-      ]
-    },
-    {
-      "group_name": "cry_lyrics",
-      "group_description": {
-        "zh": "哀號類台詞"
-      },
-      "voice_list": [
-        {
-          "name": "51e68472d8fa62b1e1159d1692927f7e",
-          "path": "cry_lyrics/啊我忘記我的密碼-RRRR.mp3",
-          "description": {
-            "zh": "啊我忘記我的密碼 RRRR"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "77b87dc11e84a54985c5af9e88150c51",
-          "path": "cry_lyrics/好麻煩噢.mp3",
-          "description": {
-            "zh": "好麻煩噢"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "e401c7952906ac2a182e4a43c98579e1",
-          "path": "cry_lyrics/對CF的無能狂怒.mp3",
-          "description": {
-            "zh": "不要 不要! 不可以! 把你那疊委託單給我拿走，沒有甚麼新動作跟向下相容啦，不要再剝奪我的遊戲時間啦，阿!!!!!!"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "c25802b4fa47ef7bab1ffa267d323885",
-          "path": "cry_lyrics/工作_好累噢.mp3",
-          "description": {
-            "zh": "工作...好累噢 (小聲)"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "0fe3edc230fef54a42fd81c71c485d6f",
-          "path": "cry_lyrics/希夫_我有檔期了_要不要新衣裝.mp3",
-          "description": {
-            "zh": "希~ 夫~ 我有檔期了，要不要~ 新衣裝~ (笑)"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "00601db35ef39d8182c2d103ab36b53a",
-          "path": "cry_lyrics/愛會消失_對嗎.mp3",
-          "description": {
-            "zh": "愛會消失，對嗎? 愛會消失，但...稿子不會"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "a9e73baba397f7161a7967100665d151",
-          "path": "cry_lyrics/我是998_現在被關在地下室_待我出地下室之日.mp3",
-          "description": {
-            "zh": "我是...998，現在被關在地下室，只要有委託，就能被放出來，待我出地下室之日"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "5cfada00ded6491d778b3dfc42efd670",
-          "path": "cry_lyrics/玖玖巴老師_我真的很努力_你怎麼這樣子說.mp3",
-          "description": {
-            "zh": "玖玖巴老師! 我真的很努力，你怎麼這樣子說"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "c534177854dbbf8ac1c117d79f121bf3",
-          "path": "cry_lyrics/畫畫好好玩_畫畫真的是太快樂了.mp3",
-          "description": {
-            "zh": "畫畫好好玩，畫畫真的是太快樂了 (棒讀)"
-          },
-          "updated_at": 1739293290
-        },
-        {
-          "name": "fc0f8c252042f6cb02609773c8ef6f68",
-          "path": "cry_lyrics/這張圖好難畫_TMD-誰設計的.mp3",
-          "description": {
-            "zh": "這張圖好難畫...TMD 誰設計的"
-          },
-          "updated_at": 1739293290
+          "name": "53416814-3826-49d7-a705-bdc26c9037a1",
+          "path": "quotes/wait_32.mp3",
+          "description": "wait x32",
+          "updated_at": 1716614400
         }
       ]
     }

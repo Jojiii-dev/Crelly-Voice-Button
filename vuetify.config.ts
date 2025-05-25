@@ -16,9 +16,9 @@ const generateThemeFromJson = (json: any) => {
 
 export default defineVuetifyConfiguration({
   theme: {
-    defaultTheme: 'light',
+    defaultTheme: 'dark',
     themes: {
-      light: {
+      dark: {
         colors: generateThemeFromJson(theme)
       }
     }
