@@ -45,6 +45,12 @@
           "path": "quotes/im_cringe.mp3",
           "description": "I'm cringe",
           "updated_at": 1748165858
+        },
+        {
+          "name": "123656bb-f15a-4689-abdf-2e02e8a4680b",
+          "path": "quotes/thankyou.mp3",
+          "description": "Thank you, thank you so much",
+          "updated_at": 1748165858
         }
       ]
     },
@@ -62,6 +68,18 @@
           "name": "59abb04c-f51d-4931-9747-709d7442016e",
           "path": "noises/wait_32.mp3",
           "description": "wait x32",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "f3a64280-f5bd-4dc2-9f12-4facbaeb72a4",
+          "path": "noises/gethim.mp3",
+          "description": "get him get him get him",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "793e025e-3d56-422f-8ef1-0ecc0e1066d1",
+          "path": "noises/screech.mp3",
+          "description": "screech",
           "updated_at": 1748165858
         }
       ]
