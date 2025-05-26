@@ -6,6 +6,7 @@
       </VCardTitle>
       <VCardText class="text-lg">
         <ul class="list-disc pl-6">
+          <li>Created by: Jojii</li>
           <li>
             Template made by:
             <a class="link" href="https://konnokai.me/" target="_blank">
@@ -25,7 +26,6 @@
             </a>
           </li>
           <li>Sound file Sources: Twitch Clip、Discord</li>
-          <li>Image Sources: Discord</li>
         </ul>
       </VCardText>
     </VCard>

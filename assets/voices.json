@@ -45,6 +45,18 @@
           "path": "quotes/im_cringe.mp3",
           "description": "I'm cringe",
           "updated_at": 1748165858
+        },
+        {
+          "name": "dc348ab0-f1ef-445b-aded-a7278cecf7dc",
+          "path": "quotes/jerk_it.mp3",
+          "description": "You think anyboydy can like jerk it to that?",
+          "updated_at": 1748249468
+        },
+        {
+          "name": "c4b6deef-8014-405c-bd69-5dca2df8e642",
+          "path": "quotes/itsdootytime.mp3",
+          "description": "It's dooty time",
+          "updated_at": 1748249468
         }
       ]
     },
@@ -62,7 +74,37 @@
           "name": "59abb04c-f51d-4931-9747-709d7442016e",
           "path": "noises/wait_32.mp3",
           "description": "wait x32",
-          "updated_at": 1748165858
+          "updated_at": 1748249468
+        },
+        {
+          "name": "6b60f8a9-3862-4e58-9796-b17ca3206ecd",
+          "path": "noises/im_getting_really_excited.mp3",
+          "description": "ahhh I'm getting really excited!!!",
+          "updated_at": 1748249468
+        },
+        {
+          "name": "87113d20-ea55-43ef-9397-cc92e87546bc",
+          "path": "noises/its_gonna_be_ok.mp3",
+          "description": "it's gonna be ok, it's gonna be ok, just shhh",
+          "updated_at": 1748249468
+        },
+        {
+          "name": "9213a923-bd09-43af-8efd-e2e0f2a93748",
+          "path": "noises/no_please_god_no.mp3",
+          "description": "no please god no",
+          "updated_at": 1748249468
+        },
+        {
+          "name": "791644d1-0018-46e2-81f6-8b36dfab7506",
+          "path": "noises/omg_omg.mp3",
+          "description": "oh my god x 4",
+          "updated_at": 1748249468
+        },
+        {
+          "name": "4252e929-3292-4259-a90c-6ff735cd637c",
+          "path": "noises/please_please_please.mp3",
+          "description": "please x3",
+          "updated_at": 1748249468
         }
       ]
     },

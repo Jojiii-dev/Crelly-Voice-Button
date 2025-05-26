@@ -58,5 +58,14 @@ export const links: T_Link[][] = [
       title: 'Youtube',
       url: 'https://www.youtube.com/channel/UCwxaNWg74VccV65gr_L6JZg'
     }
+  ],
+  [
+    {
+      icon: {
+        emoji: '🐄'
+      },
+      title: 'Submit a Sound',
+      url: 'https://forms.gle/1W7i6Tj8C7CMM1WSA'
+    }
   ]
 ];

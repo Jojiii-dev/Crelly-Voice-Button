@@ -6,7 +6,9 @@
       </template>
       <VAppBarTitle>
         <div class="flex items-center">
-          <NuxtLink class="font-bold" to="/">Crelly the Cow 🐄🤠💩🦶</NuxtLink>
+          <NuxtLink class="font-bold" to="/">
+            Crelly the Cow 🐄💩🦶 Soundboard
+          </NuxtLink>
         </div>
       </VAppBarTitle>
     </VAppBar>
@@ -50,7 +52,10 @@
             <VListItemTitle>{{ link.title }}</VListItemTitle>
           </VListItem>
 
-          <VDivider v-if="index !== links.length - 1" class="border-rose-950" />
+          <VDivider
+            v-if="index !== links.length - 1"
+            class="border-primary-100"
+          />
         </template>
       </VList>
 
