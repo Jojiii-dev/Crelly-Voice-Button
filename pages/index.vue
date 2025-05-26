@@ -165,6 +165,14 @@
               />
 
               <VBtn
+                icon="mdi-download"
+                variant="text"
+                color="secondary"
+                :href="`/voices/${currentPlayingSound?.path}`"
+                target="_blank"
+              />
+
+              <VBtn
                 :icon="soundSettings.loop ? 'mdi-repeat' : 'mdi-repeat-off'"
                 variant="text"
                 @click.stop="toggleSoundLoop"
