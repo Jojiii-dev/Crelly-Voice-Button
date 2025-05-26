@@ -20,7 +20,7 @@
     },
     {
       "group_name": "quotes",
-      "group_description": "Quotes",
+      "group_description": "Quotes📝",
       "voice_list": [
         {
           "name": "ea0ccc96-d646-4f9c-9e54-10ea3bb69e08",
@@ -68,7 +68,7 @@
     },
     {
       "group_name": "noises",
-      "group_description": "Noises",
+      "group_description": "Noises📢",
       "voice_list": [
         {
           "name": "0d461b3c-cc0e-4dbb-b920-e4c04f7bf29b",
