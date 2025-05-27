@@ -1,6 +1,66 @@
 {
   "groups": [
     {
+      "group_name": "peepoo",
+      "group_description": "💩🚽",
+      "voice_list": [
+        {
+          "name": "3a030b04-e7ba-4d43-8841-58739da3d5e1",
+          "path": "peepoo/i_pissed_on_the_floor.mp3",
+          "description": "I pissed on the floor",
+          "updated_at": 1748350298
+        },
+        {
+          "name": "c3d6fcc2-8ffb-4bb2-9fbb-ccc05c6ef4d2",
+          "path": "peepoo/poojitsu_skidmarktuber.mp3",
+          "description": "vote for poojitsu skidmarktuber and get 7 years of good luck",
+          "updated_at": 1748350298
+        },
+        {
+          "name": "24e21311-48b8-44fa-8510-36467fedec4b",
+          "path": "peepoo/vote_for_poojitsu_skidmarktuber.mp3",
+          "description": "vote for poojitsu skidmarktuber (full ver.)",
+          "updated_at": 1748350298
+        }
+      ]
+    },
+    {
+      "group_name": "feet",
+      "group_description": "🦶👣",
+      "voice_list": [
+        {
+          "name": "ea0ccc96-d646-4f9c-9e54-10ea3bb69e08",
+          "path": "feet/feet_as_a_treat.mp3",
+          "description": "feet as a treat",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "f7b867ab-132b-47de-a219-5e6333ddd132",
+          "path": "feet/foot_fetish.mp3",
+          "description": "I can admit I have a foot fetish",
+          "updated_at": 1748350298
+        }
+      ]
+    },
+    {
+      "group_name": "angy",
+      "group_description": "🤬",
+      "voice_list": [
+        {
+          "name": "0e1f474a-6ba9-48e1-b115-bd07b2f6d6b3",
+          "path": "angy/are_you_fucking_kidding_me.mp3",
+          "description": "Are you fucking kidding me?",
+          "updated_at": 1748350298
+        },
+        {
+          "name": "e3e21fdf-76e6-4202-9402-03d1dd123e56",
+          "path": "angy/stfu_who_said_that.mp3",
+          "description": "stfu who said that? no who said that deadass",
+          "updated_at": 1748350298
+        }
+      ]
+    },
+    {
       "group_name": "laughs",
       "group_description": "😂",
       "voice_list": [
@@ -15,6 +75,12 @@
           "path": "laughs/laugh2.mp3",
           "description": "laugh2",
           "updated_at": 1748165858
+        },
+        {
+          "name": "a2d1c52f-15b0-4e18-a52e-5545705c3fb9",
+          "path": "laughs/i_dont_gasp_wait_gasp.mp3",
+          "description": "I don't .. ha.. wait...",
+          "updated_at": 1748350298
         }
       ]
     },
@@ -22,12 +88,6 @@
       "group_name": "quotes",
       "group_description": "Quotes📝",
       "voice_list": [
-        {
-          "name": "ea0ccc96-d646-4f9c-9e54-10ea3bb69e08",
-          "path": "quotes/feet_as_a_treat.mp3",
-          "description": "feet as a treat",
-          "updated_at": 1748165858
-        },
         {
           "name": "9b5249c0-a654-4ac1-8d3f-13823d672b0c",
           "path": "quotes/hbd.mp3",
@@ -69,6 +129,24 @@
           "path": "quotes/crelly_awkward_hi.mp3",
           "description": "awkward hi",
           "updated_at": 1748345106
+        },
+        {
+          "name": "5ffda2f3-1e89-4ba2-ac4d-87ba5579efe6",
+          "path": "quotes/im_a_cute_cow_with_homophobia.mp3",
+          "description": "I'm a cute cow with homophobia?",
+          "updated_at": 1748345106
+        },
+        {
+          "name": "1a8108a7-1aa3-4817-b4f0-478534fb3af4",
+          "path": "quotes/its_working.mp3",
+          "description": "(it's working x4) (I have a shot x2) listen (please x9) (please x5) (it's working x4)",
+          "updated_at": 1748345106
+        },
+        {
+          "name": "71bc344a-5723-44b9-876f-8823c5b1b944",
+          "path": "quotes/um_nevermind.mp3",
+          "description": "um nevermind",
+          "updated_at": 1748345106
         }
       ]
     },
@@ -103,7 +181,7 @@
         {
           "name": "9213a923-bd09-43af-8efd-e2e0f2a93748",
           "path": "noises/no_please_god_no.mp3",
-          "description": "no please god no",
+          "description": "no please god no don't no no no no",
           "updated_at": 1748249468
         },
         {
@@ -114,20 +192,44 @@
         },
         {
           "name": "4252e929-3292-4259-a90c-6ff735cd637c",
-          "path": "noises/please_please_please.mp3",
-          "description": "please x3",
-          "updated_at": 1748249468
+          "path": "noises/please_x14.mp3",
+          "description": "please please please please please please please",
+          "updated_at": 1748345106
         },
         {
           "name": "f3a64280-f5bd-4dc2-9f12-4facbaeb72a4",
           "path": "noises/gethim.mp3",
-          "description": "get him get him get him",
+          "description": "get him get him get him get him",
           "updated_at": 1748165858
         },
         {
           "name": "793e025e-3d56-422f-8ef1-0ecc0e1066d1",
           "path": "noises/screech.mp3",
           "description": "screech",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "b03cd0f5-90c2-4601-a1fd-3a667d2193e4",
+          "path": "noises/ugh.mp3",
+          "description": "ughh",
+          "updated_at": 1748345106
+        }
+      ]
+    },
+    {
+      "group_name": "hums",
+      "group_description": "🎶",
+      "voice_list": [
+        {
+          "name": "04033bee-aad9-4183-8021-a1fb0fe7485f",
+          "path": "hums/bababababadadadadada.mp3",
+          "description": "ba ba ba ba ba da da da da da da da",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "ed28373c-cfcc-40d4-b238-e3303d81fe44",
+          "path": "hums/humming.mp3",
+          "description": "bum bum bum bum bum bum da da da da da~ da da",
           "updated_at": 1748165858
         }
       ]
@@ -153,24 +255,18 @@
           "path": "blush/distracting_head.mp3",
           "description": "Distracting head",
           "updated_at": 1748165858
-        }
-      ]
-    },
-    {
-      "group_name": "hums",
-      "group_description": "🎶",
-      "voice_list": [
-        {
-          "name": "04033bee-aad9-4183-8021-a1fb0fe7485f",
-          "path": "hums/bababababadadadadada.mp3",
-          "description": "ba ba ba ba ba da da da da da da da",
-          "updated_at": 1748165858
         },
         {
-          "name": "ed28373c-cfcc-40d4-b238-e3303d81fe44",
-          "path": "hums/humming.mp3",
-          "description": "bum bum bum bum bum bum da da da da da~ da da",
-          "updated_at": 1748165858
+          "name": "f9885ffb-13e4-4ac3-a439-cb3de278b1ad",
+          "path": "blush/exasperated_noise.mp3",
+          "description": "ahh~",
+          "updated_at": 1748350298
+        },
+        {
+          "name": "15de9527-0d3b-4b84-9523-ddd371194bf7",
+          "path": "blush/sus_noise.mp3",
+          "description": "uhh~",
+          "updated_at": 1748350298
         }
       ]
     }
