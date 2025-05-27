@@ -63,6 +63,12 @@
           "path": "quotes/itsdootytime.mp3",
           "description": "It's dooty time",
           "updated_at": 1748249468
+        },
+        {
+          "name": "4bbf8304-50c9-436e-b34c-ed7c1dcab3cb",
+          "path": "quotes/crelly_awkward_hi.mp3",
+          "description": "awkward hi",
+          "updated_at": 1748345106
         }
       ]
     },
