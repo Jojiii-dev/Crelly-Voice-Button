@@ -147,6 +147,12 @@
           "path": "quotes/um_nevermind.mp3",
           "description": "um nevermind",
           "updated_at": 1748345106
+        },
+        {
+          "name": "2541f27d-8926-4786-9e38-faafbe08d273",
+          "path": "quotes/is_it_working.mp3",
+          "description": "is it working?",
+          "updated_at": 1748412553
         }
       ]
     },
@@ -213,6 +219,36 @@
           "path": "noises/ugh.mp3",
           "description": "ughh",
           "updated_at": 1748345106
+        }
+      ]
+    },
+    {
+      "group_name": "things_noises",
+      "group_description": "🪚 object noises?",
+      "voice_list": [
+        {
+          "name": "dbc33cff-a3e0-4b2f-977c-4abf5a9034d3",
+          "path": "things_noises/chainsaw.mp3",
+          "description": "chainsaw",
+          "updated_at": 1748412553
+        },
+        {
+          "name": "df921de8-c573-4db6-a104-117d996bb170",
+          "path": "things_noises/chainsaw2.mp3",
+          "description": "chainsaw 2",
+          "updated_at": 1748412553
+        },
+        {
+          "name": "a697f88e-6530-479c-aa53-ae4e386fb32e",
+          "path": "things_noises/asmr_chainsaw.mp3",
+          "description": "asmr chainsaw?",
+          "updated_at": 1748412553
+        },
+        {
+          "name": "16e6504b-f0a4-4719-ae37-452341b5172f",
+          "path": "things_noises/psshhhh.mp3",
+          "description": "sprinkler or a mean piss? idk",
+          "updated_at": 1748412553
         }
       ]
     },
