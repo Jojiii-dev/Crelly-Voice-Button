@@ -58,7 +58,11 @@
       </VList>
 
       <template #append>
-        <VImg src="/images/lil_guy.png" class="bottom-0" />
+        <VImg
+          @click="playRandomSound()"
+          src="/images/lil_guy.png"
+          class="bottom-0 cursor-pointer brightness-100 hover:brightness-75 transition-all duration-300"
+        />
         <VListItem
           to="/about"
           prepend-icon="mdi-text-box-search"
@@ -70,7 +74,7 @@
     <VMain class="bg-stone-900">
       <div class="flex flex-col h-full">
         <VContainer class="flex-1">
-          <NuxtPage />
+          <NuxtPage ref="page" />
         </VContainer>
 
         <div>
@@ -99,6 +103,11 @@ import { links } from '~/assets/links';
 import site from './assets/locales/site.json';
 
 const isDrawerOpen = ref(false);
+const page = ref();
+
+function playRandomSound() {
+  page.value.pageRef.playRandomSound();
+}
 
 const parseContent = (content: string) => {
   const params = site.footer.content_params;

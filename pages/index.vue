@@ -219,7 +219,7 @@
         position="top-right"
         timeout="-1"
         :toast-options="{
-          style: { background: '#315b68', borderRadius: '8px' }
+          style: { background: '#c4986f', borderRadius: '8px' }
         }"
       />
     </ClientOnly>
@@ -462,6 +462,10 @@ onMounted(() => {
 
 onBeforeUnmount(() => {
   stopSound();
+});
+
+defineExpose({
+  playRandomSound
 });
 </script>
 
