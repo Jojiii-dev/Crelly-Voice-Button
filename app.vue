@@ -60,7 +60,7 @@
       </VList>
 
       <template #append>
-        <img src="/images/lil_guy.png" class="bottom-0" />
+        <VImg src="/images/lil_guy.png" class="bottom-0" />
         <VListItem
           to="/about"
           prepend-icon="mdi-text-box-search"

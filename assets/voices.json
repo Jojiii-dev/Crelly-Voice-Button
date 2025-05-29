@@ -25,6 +25,18 @@
       ]
     },
     {
+      "group_name": "vore",
+      "group_description": "😋👅",
+      "voice_list": [
+        {
+          "name": "b0c31ecc-d575-4cfd-9d8b-e37bae7f9271",
+          "path": "vore/i_fucking_love_vore.mp3",
+          "description": "I fucking love vore",
+          "updated_at": 1748496520
+        }
+      ]
+    },
+    {
       "group_name": "feet",
       "group_description": "🦶👣",
       "voice_list": [
@@ -39,6 +51,12 @@
           "path": "feet/foot_fetish.mp3",
           "description": "I can admit I have a foot fetish",
           "updated_at": 1748350298
+        },
+        {
+          "name": "4c6773a7-ea15-4129-8ca1-b2272db62ecf",
+          "path": "feet/big_woman_step_on_me.mp3",
+          "description": "i hope a big woman in a bikini doesn't step on me",
+          "updated_at": 1748496520
         }
       ]
     },
@@ -267,6 +285,24 @@
           "path": "hums/humming.mp3",
           "description": "bum bum bum bum bum bum da da da da da~ da da",
           "updated_at": 1748165858
+        },
+        {
+          "name": "4c7fdacc-e3eb-4620-8a0a-343b2a247b55",
+          "path": "hums/crelly_buh_buh.mp3",
+          "description": "Buh buh buh",
+          "updated_at": 1748496520
+        }
+      ]
+    },
+    {
+      "group_name": "corpa",
+      "group_description": "💵💰",
+      "voice_list": [
+        {
+          "name": "70b78fd3-d361-4ab5-b9d8-20831b424ce1",
+          "path": "corpa/gamersupps.mp3",
+          "description": "Use code crelly for 10% off when purchasing anything from gamersupps.gg",
+          "updated_at": 1748496520
         }
       ]
     },
