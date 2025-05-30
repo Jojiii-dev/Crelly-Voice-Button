@@ -9,17 +9,10 @@
           <NuxtLink class="font-bold" to="/">Crelly 🐄💩🦶 Soundboard</NuxtLink>
         </div>
       </VAppBarTitle>
-      <VImg
-        @click="playRandomSound()"
-        src="/images/creUnhinged.gif"
-        class="cursor-pointer brightness-100 hover:brightness-75 transition-all duration-300 right-0"
-        cover
-        :max-width="115"
-      />
     </VAppBar>
 
-    <VNavigationDrawer v-model="isDrawerOpen" class="drawer">
-      <VList class="flex-1">
+    <VNavigationDrawer v-model="isDrawerOpen" class="drawer flex-col">
+      <VList class="flex-1 overflow-y-auto">
         <VListItem to="/">
           <template #prepend>
             <div class="mr-8">
@@ -65,11 +58,13 @@
       </VList>
 
       <template #append>
-        <VImg
-          @click="playRandomSound()"
-          src="/images/lil_guy.png"
-          class="bottom-0 cursor-pointer brightness-100 hover:brightness-75 transition-all duration-300"
-        />
+        <div class="flex justify-center">
+          <img
+            @click="playRandomSound()"
+            src="/images/lil_guy.png"
+            class="bottom-0 left-auto right-auto cursor-pointer brightness-100 hover:brightness-75 transition-all duration-300 max-h-40 md:max-h-full"
+          />
+        </div>
         <VListItem
           to="/about"
           prepend-icon="mdi-text-box-search"

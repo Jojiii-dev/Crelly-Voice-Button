@@ -210,7 +210,7 @@
           class="my-2"
           @click="toggleSoundLoop"
         />
-        <VBtn icon="mdi-shuffle" @click="playRandomSound" class="my-2" />
+        <VBtn icon="mdi-cow" @click="playRandomSound" class="my-2" />
       </VMenu>
     </VFab>
 
