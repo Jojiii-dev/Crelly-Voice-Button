@@ -61,6 +61,30 @@
       ]
     },
     {
+      "group_name": "daddy_pwincess",
+      "group_description": "💖 daddy pwincess 👸",
+      "voice_list": [
+        {
+          "name": "a06dde53-f811-4b3d-bc1d-0db5f09e8796",
+          "path": "daddy_pwincess/can_i_have_daddy_pwincess_pls.mp3",
+          "description": "Can I have daddy pwincess please?",
+          "updated_at": 1748633876
+        },
+        {
+          "name": "1281a939-aaa3-4ac8-9d31-c5f640f56b96",
+          "path": "daddy_pwincess/i_didnt_expect_to_see_you_here.mp3",
+          "description": "I didn't expect to see you here",
+          "updated_at": 1748633876
+        },
+        {
+          "name": "431775b9-5355-4865-9788-9f7e551acdea",
+          "path": "daddy_pwincess/pwincess_i_am_absolutely_taken_aback.mp3",
+          "description": "pwinceess I am absolutely taken aback",
+          "updated_at": 1748633876
+        }
+      ]
+    },
+    {
       "group_name": "angy",
       "group_description": "🤬",
       "voice_list": [
