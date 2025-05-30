@@ -50,6 +50,7 @@ export const links: T_Link[][] = [
       title: 'Discord',
       url: 'https://discord.gg/Syby6wNbKv'
     },
+
     {
       icon: {
         color: '#FF0032',
@@ -57,9 +58,24 @@ export const links: T_Link[][] = [
       },
       title: 'Youtube',
       url: 'https://www.youtube.com/channel/UCwxaNWg74VccV65gr_L6JZg'
+    },
+    {
+      icon: {
+        color: '#FF0032',
+        name: 'mdi-youtube'
+      },
+      title: 'VODs channel',
+      url: 'https://www.youtube.com/@crellyvods'
     }
   ],
   [
+    {
+      icon: {
+        emoji: '📝'
+      },
+      title: 'Crelly Bingo - by mw',
+      url: 'https://crellybingo.glitch.me/'
+    },
     {
       icon: {
         emoji: '🐄'

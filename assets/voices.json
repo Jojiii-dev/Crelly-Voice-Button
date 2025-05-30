@@ -171,6 +171,18 @@
           "path": "quotes/is_it_working.mp3",
           "description": "is it working?",
           "updated_at": 1748412553
+        },
+        {
+          "name": "78988509-a98c-44f3-9299-0309c9dc4e3f",
+          "path": "quotes/where_did_she_go.mp3",
+          "description": "(where did she go? x3) where did she go I miss her. mi miss her where did she go?",
+          "updated_at": 1748592985
+        },
+        {
+          "name": "73892063-88db-49f8-b3c5-847747f5221b",
+          "path": "quotes/would_you_guys_hold_my_hand.mp3",
+          "description": "Would you guys hold my hand? press 1 if you would hold my hand",
+          "updated_at": 1748592985
         }
       ]
     },
@@ -357,6 +369,12 @@
           "path": "blush/hey_xdx_vertical_bar.mp3",
           "description": "hey xdx vertical bar",
           "updated_at": 1748496520
+        },
+        {
+          "name": "3b8ec4c2-fb28-4220-8839-c0e6e1b8042a",
+          "path": "blush/inflating.mp3",
+          "description": "medium guys inflating. oh my god i'm gonna inflate. I'm inflating",
+          "updated_at": 1748592985
         }
       ]
     }

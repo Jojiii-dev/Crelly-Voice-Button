@@ -9,6 +9,13 @@
           <NuxtLink class="font-bold" to="/">Crelly 🐄💩🦶 Soundboard</NuxtLink>
         </div>
       </VAppBarTitle>
+      <VImg
+        @click="playRandomSound()"
+        src="/images/creUnhinged.gif"
+        class="cursor-pointer brightness-100 hover:brightness-75 transition-all duration-300 right-0"
+        cover
+        :max-width="115"
+      />
     </VAppBar>
 
     <VNavigationDrawer v-model="isDrawerOpen" class="drawer">
