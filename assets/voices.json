@@ -23,12 +23,6 @@
           "updated_at": 1748350298
         },
         {
-          "name": "487901f6-0bc7-441a-b268-7a123939077a",
-          "path": "peepoo/skeebeedee.mp3",
-          "description": "Skeebeedee",
-          "updated_at": 1748826582
-        },
-        {
           "name": "c4b6deef-8014-405c-bd69-5dca2df8e642",
           "path": "peepoo/itsdootytime.mp3",
           "description": "It's dooty time",
@@ -38,6 +32,12 @@
           "name": "8256bd34-9117-4430-b258-ca16b4aa06df",
           "path": "peepoo/you_guys_dont_pull_your_balls_out_when_you_piss.mp3",
           "description": "You guys don't pull your balls out when you piss?",
+          "updated_at": 1748826582
+        },
+        {
+          "name": "b85cdf50-9f47-4a13-9505-a2ed7da0785f",
+          "path": "peepoo/is_that_piss.mp3",
+          "description": "(is that piss? x11)",
           "updated_at": 1748826582
         }
       ]
@@ -57,6 +57,18 @@
           "path": "vore/i_wanna_get_vored.mp3",
           "description": "I wanna get vored",
           "updated_at": 1748826582
+        },
+        {
+          "name": "563d9f88-703f-4e35-95a9-cf9b65d432e5",
+          "path": "vore/vore_switch_is_crazy.mp3",
+          "description": "vore switch is crazy. i would never be eaten... unless it was by a woman",
+          "updated_at": 1749028432
+        },
+        {
+          "name": "b86facb1-2f8a-4a35-b7c2-d33d7704e080",
+          "path": "vore/things_crelly_likes.mp3",
+          "description": "im a cuck. im a bottom. i like feet. i like inflation. i like fucking foot vore, foot inlfation vore",
+          "updated_at": 1749028432
         }
       ]
     },
@@ -105,6 +117,12 @@
           "path": "feet/weretalkingaboutfeet.mp3",
           "description": "we're talking about feet, ok?",
           "updated_at": 1748826582
+        },
+        {
+          "name": "8c78c8ef-b244-42d0-aa9c-05ae59a38013",
+          "path": "feet/you_guys_can_sniff_my_stinky_feet_if_you_want_to.mp3",
+          "description": "You guys can sniff my stinky feet if you want to",
+          "updated_at": 1749028432
         }
       ]
     },
@@ -177,6 +195,42 @@
           "path": "laughs/i_dont_gasp_wait_gasp.mp3",
           "description": "I don't .. ha.. wait...",
           "updated_at": 1748350298
+        },
+        {
+          "name": "d544b3fe-00dd-4d46-847d-594b1a2011d9",
+          "path": "laughs/pffft_laugh.mp3",
+          "description": "pfffffffft ahahahahahahaha im sorry ahahahahahaha",
+          "updated_at": 1749028432
+        }
+      ]
+    },
+    {
+      "group_name": "memes",
+      "group_description": "memes 😺",
+      "voice_list": [
+        {
+          "name": "dd96ca1c-ebec-446a-936c-606812910394",
+          "path": "memes/i_was_crazy_once.mp3",
+          "description": "crazy? i was crazy once. they locked me in a room. a rubber room. with rats. and rats make me crazy.",
+          "updated_at": 1749028432
+        },
+        {
+          "name": "4252e929-3292-4259-a90c-6ff735cd637c",
+          "path": "memes/please_x14.mp3",
+          "description": "please please please please please please please",
+          "updated_at": 1748345106
+        },
+        {
+          "name": "95839b68-eaee-4614-a5fd-c79b79d58e44",
+          "path": "memes/xdx_true.mp3",
+          "description": "xdx | true",
+          "updated_at": 1748165858
+        },
+        {
+          "name": "487901f6-0bc7-441a-b268-7a123939077a",
+          "path": "memes/skeebeedee.mp3",
+          "description": "Skeebeedee",
+          "updated_at": 1748826582
         }
       ]
     },
@@ -188,12 +242,6 @@
           "name": "9b5249c0-a654-4ac1-8d3f-13823d672b0c",
           "path": "quotes/hbd.mp3",
           "description": "Happy Birthday",
-          "updated_at": 1748165858
-        },
-        {
-          "name": "95839b68-eaee-4614-a5fd-c79b79d58e44",
-          "path": "quotes/xdx_true.mp3",
-          "description": "xdx | true",
           "updated_at": 1748165858
         },
         {
@@ -285,6 +333,30 @@
           "path": "quotes/objectpermanence.mp3",
           "description": "I have object permanence... where'd that go?",
           "updated_at": 1748826582
+        },
+        {
+          "name": "b62cd90b-db6d-45ec-92be-4ea92af48247",
+          "path": "quotes/do_you_guys_have_anal.mp3",
+          "description": "do you guys have anal?",
+          "updated_at": 1749028432
+        },
+        {
+          "name": "a5f5e837-21b7-4c9c-ae56-a2ad7a4e0f8e",
+          "path": "quotes/i_am_impossibly_huge.mp3",
+          "description": "I am impossibly huge. i've been told i have 7 .. 7.5 inch energy",
+          "updated_at": 1749028432
+        },
+        {
+          "name": "3f206c48-c572-4419-96bb-92e2f7341098",
+          "path": "quotes/i_dont_fuck_mice_i_just_want_to.mp3",
+          "description": "bro I dont fuck mice i just want to there's a big difference",
+          "updated_at": 1749028432
+        },
+        {
+          "name": "3b98708b-96b2-4492-adb3-8fadd1a5f72e",
+          "path": "quotes/i_must_cum.mp3",
+          "description": "I must cum",
+          "updated_at": 1749028432
         }
       ]
     },
@@ -329,12 +401,6 @@
           "updated_at": 1748249468
         },
         {
-          "name": "4252e929-3292-4259-a90c-6ff735cd637c",
-          "path": "noises/please_x14.mp3",
-          "description": "please please please please please please please",
-          "updated_at": 1748345106
-        },
-        {
           "name": "f3a64280-f5bd-4dc2-9f12-4facbaeb72a4",
           "path": "noises/gethim.mp3",
           "description": "get him get him get him get him",
@@ -357,6 +423,12 @@
           "path": "noises/oooooooo.mp3",
           "description": "oooooooo",
           "updated_at": 1748826582
+        },
+        {
+          "name": "d38e06a2-9b4b-45cb-ae46-c6839a1e71af",
+          "path": "noises/buh.mp3",
+          "description": "buh",
+          "updated_at": 1749028432
         }
       ]
     },
@@ -429,6 +501,12 @@
           "path": "corpa/gamersupps.mp3",
           "description": "Use code crelly for 10% off when purchasing anything from gamersupps.gg",
           "updated_at": 1748496520
+        },
+        {
+          "name": "69bf57fe-45b6-4bdc-b1bd-6e7fe3681f89",
+          "path": "corpa/press_3_for_bk_delicious_whopper.mp3",
+          "description": "Press 3 for burger king delicious amazing whopper",
+          "updated_at": 1748496520
         }
       ]
     },
@@ -495,6 +573,18 @@
           "path": "blush/Ill_like_if_you_give_it_to_me.mp3",
           "description": "I'll like if you'd give it to me",
           "updated_at": 1748826582
+        },
+        {
+          "name": "9c129375-b2ff-4561-b0a4-77d6dbd4318b",
+          "path": "blush/are_you_jealous_of_my_heart.mp3",
+          "description": "Are you jealous of my heart because it's pounding inside me right now?",
+          "updated_at": 1749028432
+        },
+        {
+          "name": "aada5c48-b0f2-450d-9b8c-ea03ea135296",
+          "path": "blush/hey_bb_girl_do_it_fart.mp3",
+          "description": "Hey baby girl do it fart",
+          "updated_at": 1749028432
         }
       ]
     }
