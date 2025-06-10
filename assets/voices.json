@@ -197,6 +197,12 @@
           "updated_at": 1748350298
         },
         {
+          "name": "2649f108-11ce-4ced-ae11-631e3b4f0827",
+          "path": "laughs/slaqr_pov.mp3",
+          "description": "ahahaha... no no no there's no way. there's no...",
+          "updated_at": 1749553280
+        },
+        {
           "name": "d544b3fe-00dd-4d46-847d-594b1a2011d9",
           "path": "laughs/pffft_laugh.mp3",
           "description": "pfffffffft ahahahahahahaha im sorry ahahahahahaha",
@@ -357,6 +363,36 @@
           "path": "quotes/i_must_cum.mp3",
           "description": "I must cum",
           "updated_at": 1749028432
+        },
+        {
+          "name": "d609af8d-ae8f-4416-86d7-67b379b8dbae",
+          "path": "quotes/i_consent.mp3",
+          "description": "I consent",
+          "updated_at": 1749553280
+        },
+        {
+          "name": "d1e0d74c-08a5-4250-89c3-d595ea6f3cce",
+          "path": "quotes/i_love_the_base_of_your_cock_and_balls_too.mp3",
+          "description": "and I love the base of your cock and balls too",
+          "updated_at": 1749553280
+        },
+        {
+          "name": "7c7503cf-3e34-499a-a0cf-831f02e9c1f8",
+          "path": "quotes/not_desperate_just_ready.mp3",
+          "description": "i don't think im deperate. I think I'm just ready",
+          "updated_at": 1749553280
+        },
+        {
+          "name": "5d6e4caa-6b6b-4de7-ac51-2f4b5791c43e",
+          "path": "quotes/touch_cringe_tips.mp3",
+          "description": "we can be equally cringe and then we can touch cringe tips",
+          "updated_at": 1749553280
+        },
+        {
+          "name": "c0911559-4cd8-4b55-b6a0-9b0c5bb64262",
+          "path": "quotes/valky_impreg_time.mp3",
+          "description": "oh valky~ it's impregnation time~",
+          "updated_at": 1749553280
         }
       ]
     },
@@ -429,12 +465,24 @@
           "path": "noises/buh.mp3",
           "description": "buh",
           "updated_at": 1749028432
+        },
+        {
+          "name": "b2a09ceb-bdd4-4be8-abaf-fa35d40067d4",
+          "path": "noises/erm.mp3",
+          "description": "erm",
+          "updated_at": 1749553280
+        },
+        {
+          "name": "afa5f704-cead-4ea7-9632-1e03c1f66897",
+          "path": "noises/holy_son_of_a_bitch.mp3",
+          "description": "holy son of a bitch what the fuck",
+          "updated_at": 1749553280
         }
       ]
     },
     {
       "group_name": "things_noises",
-      "group_description": "🪚 object noises?",
+      "group_description": "object noises?",
       "voice_list": [
         {
           "name": "dbc33cff-a3e0-4b2f-977c-4abf5a9034d3",
