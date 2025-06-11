@@ -393,6 +393,18 @@
           "path": "quotes/valky_impreg_time.mp3",
           "description": "oh valky~ it's impregnation time~",
           "updated_at": 1749553280
+        },
+        {
+          "name": "c845f0ee-20cc-4381-8c02-0bdee1444c6e",
+          "path": "quotes/ill_show_you_total_bottom_energy.mp3",
+          "description": "total bottom energy? i'll fucking show you total bottom energy",
+          "updated_at": 1749632299
+        },
+        {
+          "name": "95b626c3-a8af-49c0-8db0-db7cc8222e16",
+          "path": "quotes/tip_of_my_tongue.mp3",
+          "description": "I'll just dance the tip of my tongue underneath them as I hold them upright like a pair of testicles",
+          "updated_at": 1749632299
         }
       ]
     },
@@ -555,6 +567,12 @@
           "path": "corpa/press_3_for_bk_delicious_whopper.mp3",
           "description": "Press 3 for burger king delicious amazing whopper",
           "updated_at": 1748496520
+        },
+        {
+          "name": "4f810502-0546-4bb9-8af1-4080bb335080",
+          "path": "corpa/burgerking_burger.mp3",
+          "description": "Press 3 for delicious burger king whopper. available at burger king with burger burger burg burger...",
+          "updated_at": 1749632299
         }
       ]
     },
