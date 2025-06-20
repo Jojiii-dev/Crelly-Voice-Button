@@ -567,6 +567,12 @@
           "path": "noises/nononononono.mp3",
           "description": "no no no no no no no",
           "updated_at": 1750321715
+        },
+        {
+          "name": "40dfba29-7841-4a1d-aebe-38e3f800d997",
+          "path": "noises/im_gonna_freak.mp3",
+          "description": "ohhhh i'm gonna freak x9",
+          "updated_at": 1750414535
         }
       ]
     },
@@ -729,6 +735,102 @@
           "path": "blush/hey_bb_girl_do_it_fart.mp3",
           "description": "Hey baby girl do it fart",
           "updated_at": 1749028432
+        }
+      ]
+    },
+    {
+      "group_name": "valky",
+      "group_description": "Valkyprin 😍",
+      "voice_list": [
+        {
+          "name": "9ffafa20-2a72-4518-ace5-ab236936d53d",
+          "path": "valky/gasp_friends.mp3",
+          "description": "*gasp* Friends",
+          "updated_at": 1750321715
+        },
+        {
+          "name": "b740d012-2505-48b3-acb9-9d481a0c848e",
+          "path": "valky/valky_moan.mp3",
+          "description": "(valky moans)",
+          "updated_at": 1750321715
+        },
+        {
+          "name": "56f508e2-9985-46e7-bcf8-bab29dfc0404",
+          "path": "valky/im_sorry_valky.mp3",
+          "description": "I'm sorry valky",
+          "updated_at": 1750321715
+        },
+        {
+          "name": "4b64ffb5-5abb-4c88-826d-20a307865ffe",
+          "path": "valky/quaking_shitting_pissing.mp3",
+          "description": "They are quaking. they are shitting. they are pissing",
+          "updated_at": 1750321715
+        },
+        {
+          "name": "730cf974-82f2-43e6-8b63-4e22fb6fdbff",
+          "path": "valky/soundbite_aquired.mp3",
+          "description": "soundsbite acquired",
+          "updated_at": 1750321715
+        },
+        {
+          "name": "e8348184-5544-404d-b9dd-b4680bf463c5",
+          "path": "valky/valky_dexterous_finger.mp3",
+          "description": "(crelly reading tellonym) I'm parasocially in love with valky since the day he first spoke...",
+          "updated_at": 1750321715
+        },
+        {
+          "name": "527f4bce-df2d-4bfa-b919-fa7d1c65a87e",
+          "path": "valky/valky_pretty_chest.mp3",
+          "description": "ohh~ this is a really pretty chest",
+          "updated_at": 1750321715
+        },
+        {
+          "name": "d94cebe0-d149-45cd-9c14-a1cfc7be58a4",
+          "path": "valky/valky_ayo.mp3",
+          "description": "Ayo",
+          "updated_at": 1750321715
+        },
+        {
+          "name": "8dce5cf2-b738-49df-8ddc-fc3da6ef797a",
+          "path": "valky/14ppl_in_chat.mp3",
+          "description": "There's 14 people in chat? holy shit",
+          "updated_at": 1750414535
+        },
+        {
+          "name": "366dcba3-ac02-4f5d-a64b-a0ebae96d8e7",
+          "path": "valky/amazing_timezone_everyone.mp3",
+          "description": "Have an amazing timezone everyone",
+          "updated_at": 1750414535
+        },
+        {
+          "name": "5ef7ef8b-4ab7-4bb2-bd3f-1a3a6cec3891",
+          "path": "valky/bye_chat.mp3",
+          "description": "bye chat",
+          "updated_at": 1750414535
+        },
+        {
+          "name": "b915059a-025a-4805-80c5-f0b45d62bc3b",
+          "path": "valky/chuckle.mp3",
+          "description": "valky chuckles 😳",
+          "updated_at": 1750414535
+        },
+        {
+          "name": "3b7ef41e-9c84-42f3-b00f-e84e3fbfe5a9",
+          "path": "valky/heychat.mp3",
+          "description": "heyyyy chat (loud)",
+          "updated_at": 1750414535
+        },
+        {
+          "name": "a04cc90a-d249-48c5-90ea-7d57b8988585",
+          "path": "valky/thanks_for_supporting_cow.mp3",
+          "description": "thanks so much for supporting our cow though chat",
+          "updated_at": 1750414535
+        },
+        {
+          "name": "7be301bf-b3a9-434f-9fb9-9aced2701a9a",
+          "path": "valky/welcome_back.mp3",
+          "description": "welcome back",
+          "updated_at": 1750414535
         }
       ]
     }
