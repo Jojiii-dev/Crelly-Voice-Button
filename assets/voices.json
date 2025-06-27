@@ -489,6 +489,18 @@
           "path": "quotes/im_playing_with_her_balls.mp3",
           "description": "look i'm playing with her balls",
           "updated_at": 1750595357
+        },
+        {
+          "name": "f7c8fc0d-82be-4746-898b-e264d9c87c04",
+          "path": "quotes/im_trash_im_garbage.mp3",
+          "description": "this is a tough lesson ok? never trust me. I'm trash. I'm garbage",
+          "updated_at": 1751028477
+        },
+        {
+          "name": "eff0cce4-b008-440b-ac60-7a9b0150ceaa",
+          "path": "quotes/thanks_mediumage_peepootuber.mp3",
+          "description": "um thank you for letting me be your middle aged medium peepootuber guys. i appreciate it",
+          "updated_at": 1751028477
         }
       ]
     },
@@ -591,6 +603,18 @@
           "path": "noises/im_gonna_freak.mp3",
           "description": "ohhhh i'm gonna freak x9",
           "updated_at": 1750414535
+        },
+        {
+          "name": "95ae5d3b-36cd-4f03-8000-0151ddd08a2c",
+          "path": "noises/spooked_nya.mp3",
+          "description": "spooked nya",
+          "updated_at": 1751028477
+        },
+        {
+          "name": "dc3a78df-fbe5-42f0-bbef-afad63352b78",
+          "path": "noises/drools_fuck_me.mp3",
+          "description": "(drools) fuck me x24",
+          "updated_at": 1751028477
         }
       ]
     },
@@ -855,6 +879,12 @@
           "path": "valky/welcome_back.mp3",
           "description": "welcome back",
           "updated_at": 1750414535
+        },
+        {
+          "name": "6f05049d-862b-46f3-9769-682cfe490b2a",
+          "path": "valky/get_ratioed_bottomtuber.mp3",
+          "description": "you're gonna get ratioed bottomtuber",
+          "updated_at": 1751028477
         }
       ]
     }
