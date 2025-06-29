@@ -1,14 +1,15 @@
 {
   "title": "Crelly 🐄💩🦶 Soundboard",
   "description": "Silly Crelly Sounds",
-  "keywords": "VTuber VoiceButton Crelly The Cow Soundboard Silly Vore Poop Buh Feet PooTuber Poo ",
-  "url": "todo",
+  "keywords": "VTuber VoiceButton Crelly The Cow Soundboard Silly Vore Poop Buh Feet PooTuber Poo Valky Valkyprin",
+  "url": "https://crelly.vercel.app",
+  "twitter_user": "@Jojiii_dev",
   "theme_color": "#00bc7d",
   "footer": {
     "authors": [
       {
         "name": "Jojiii",
-        "link": ""
+        "link": "https://x.com/Jojiii_dev"
       }
     ],
     "repo_link": "https://github.com/Jojiii-dev/Crelly-Voice-Button",

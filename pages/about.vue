@@ -6,7 +6,16 @@
       </VCardTitle>
       <VCardText class="text-lg">
         <ul class="list-disc pl-6">
-          <li>Created by: Jojii</li>
+          <p>
+            Thanks for visiting my little crelly soundboard site. I hope you
+            enjoyed it.
+          </p>
+          <li>
+            Created by:
+            <a class="link" href="https://x.com/Jojiii_dev" target="_blank">
+              Jojiii
+            </a>
+          </li>
           <li>
             Template made by:
             <a class="link" href="https://konnokai.me/" target="_blank">
@@ -25,7 +34,7 @@
               九条夏目
             </a>
           </li>
-          <li>Sound file Sources: Twitch Clip、Discord</li>
+          <li>Sound file Sources: Twitch Clip, Discord, Youtube clips</li>
         </ul>
       </VCardText>
     </VCard>

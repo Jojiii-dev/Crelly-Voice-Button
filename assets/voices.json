@@ -39,6 +39,12 @@
           "path": "peepoo/is_that_piss.mp3",
           "description": "(is that piss? x11)",
           "updated_at": 1748826582
+        },
+        {
+          "name": "f8319f7c-22fe-4e9e-8856-66e86b6a6aea",
+          "path": "peepoo/pisspuddle_of_drool.mp3",
+          "description": "piss puddle of drool",
+          "updated_at": 1750595357
         }
       ]
     },
@@ -471,6 +477,30 @@
           "path": "quotes/were_about_to_have_the_weirdest_sex.mp3",
           "description": "omg... this is ... we're about to have the weirdest weirdest sex",
           "updated_at": 1750321715
+        },
+        {
+          "name": "500ec5e7-57e1-444d-b2ac-4277c5a40127",
+          "path": "quotes/thank_you_community.mp3",
+          "description": "thank you guys for being such an awesome community (tsundere)",
+          "updated_at": 1750595357
+        },
+        {
+          "name": "459c4f4b-2fec-4e51-9ea6-2550517d9932",
+          "path": "quotes/im_playing_with_her_balls.mp3",
+          "description": "look i'm playing with her balls",
+          "updated_at": 1750595357
+        },
+        {
+          "name": "f7c8fc0d-82be-4746-898b-e264d9c87c04",
+          "path": "quotes/im_trash_im_garbage.mp3",
+          "description": "this is a tough lesson ok? never trust me. I'm trash. I'm garbage",
+          "updated_at": 1751028477
+        },
+        {
+          "name": "eff0cce4-b008-440b-ac60-7a9b0150ceaa",
+          "path": "quotes/thanks_mediumage_peepootuber.mp3",
+          "description": "um thank you for letting me be your middle aged medium peepootuber guys. i appreciate it",
+          "updated_at": 1751028477
         }
       ]
     },
@@ -573,6 +603,18 @@
           "path": "noises/im_gonna_freak.mp3",
           "description": "ohhhh i'm gonna freak x9",
           "updated_at": 1750414535
+        },
+        {
+          "name": "95ae5d3b-36cd-4f03-8000-0151ddd08a2c",
+          "path": "noises/spooked_nya.mp3",
+          "description": "spooked nya",
+          "updated_at": 1751028477
+        },
+        {
+          "name": "dc3a78df-fbe5-42f0-bbef-afad63352b78",
+          "path": "noises/drools_fuck_me.mp3",
+          "description": "(drools) fuck me x24",
+          "updated_at": 1751028477
         }
       ]
     },
@@ -735,6 +777,12 @@
           "path": "blush/hey_bb_girl_do_it_fart.mp3",
           "description": "Hey baby girl do it fart",
           "updated_at": 1749028432
+        },
+        {
+          "name": "b63f1fe9-d299-492c-802a-04f2ad0c761e",
+          "path": "blush/aww_thats_so_sad_poor_baby.mp3",
+          "description": "aww that's so sad, poor baby",
+          "updated_at": 1750595357
         }
       ]
     },
@@ -757,7 +805,7 @@
         {
           "name": "56f508e2-9985-46e7-bcf8-bab29dfc0404",
           "path": "valky/im_sorry_valky.mp3",
-          "description": "I'm sorry valky",
+          "description": "I'm sorry valky (this one's edited)",
           "updated_at": 1750321715
         },
         {
@@ -831,6 +879,12 @@
           "path": "valky/welcome_back.mp3",
           "description": "welcome back",
           "updated_at": 1750414535
+        },
+        {
+          "name": "6f05049d-862b-46f3-9769-682cfe490b2a",
+          "path": "valky/get_ratioed_bottomtuber.mp3",
+          "description": "you're gonna get ratioed bottomtuber",
+          "updated_at": 1751028477
         }
       ]
     }

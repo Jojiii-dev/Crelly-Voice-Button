@@ -4,6 +4,9 @@ export default defineNuxtConfig({
     port: 3333,
     host: '0.0.0.0',
   },
+    routeRules: {
+    '/**': { prerender: true },
+  },
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
   modules: [
