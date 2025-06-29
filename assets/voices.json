@@ -207,6 +207,12 @@
           "path": "angy/havetodie1.mp3",
           "description": "You might have actually to die for that",
           "updated_at": 1748826582
+        },
+        {
+          "name": "d96d97e0-4dce-4bcb-abad-69d30b448df5",
+          "path": "angy/scan_madge.mp3",
+          "description": "If I ever see that scan madge rant",
+          "updated_at": 1751176885
         }
       ]
     },
@@ -501,6 +507,24 @@
           "path": "quotes/thanks_mediumage_peepootuber.mp3",
           "description": "um thank you for letting me be your middle aged medium peepootuber guys. i appreciate it",
           "updated_at": 1751028477
+        },
+        {
+          "name": "640b2200-80b0-4a4e-8ceb-37c6b55f13f8",
+          "path": "quotes/blasting_crevices.mp3",
+          "description": "blasting crevices rant",
+          "updated_at": 1751176885
+        },
+        {
+          "name": "193bbed6-c131-4060-9763-3de799540aa7",
+          "path": "quotes/im_a_backtuber.mp3",
+          "description": "I'm a backtuber. I love being a backtuber. I am part of the backtuber group",
+          "updated_at": 1751176885
+        },
+        {
+          "name": "4a0f01b3-ece1-41e3-a4ee-38b7304aac1d",
+          "path": "quotes/press_2_stunlock.mp3",
+          "description": "press 2 stutter stunlock",
+          "updated_at": 1751176885
         }
       ]
     },
@@ -615,6 +639,12 @@
           "path": "noises/drools_fuck_me.mp3",
           "description": "(drools) fuck me x24",
           "updated_at": 1751028477
+        },
+        {
+          "name": "7af34d46-13a2-4524-a31a-52d264189995",
+          "path": "noises/crunt_grunt.mp3",
+          "description": "(crunt grunt)",
+          "updated_at": 1751176885
         }
       ]
     },
@@ -645,6 +675,18 @@
           "path": "things_noises/psshhhh.mp3",
           "description": "sprinkler or a mean piss? idk",
           "updated_at": 1748412553
+        },
+        {
+          "name": "6cc57302-44ea-4147-bdf4-1b45db70eac2",
+          "path": "things_noises/carwash1.mp3",
+          "description": "carwash?",
+          "updated_at": 1751176885
+        },
+        {
+          "name": "ccac01c4-a743-4262-8cd8-93d0e91e02d7",
+          "path": "things_noises/carwash2.mp3",
+          "description": "carwash 2",
+          "updated_at": 1751176885
         }
       ]
     },
@@ -783,6 +825,12 @@
           "path": "blush/aww_thats_so_sad_poor_baby.mp3",
           "description": "aww that's so sad, poor baby",
           "updated_at": 1750595357
+        },
+        {
+          "name": "117c4345-f108-4602-a38e-c6fbc60c821c",
+          "path": "blush/quick_one_pantsgrab.mp3",
+          "description": "oh yea? I'll give you a quick one... pantsgrab?",
+          "updated_at": 1750595357
         }
       ]
     },
@@ -885,6 +933,12 @@
           "path": "valky/get_ratioed_bottomtuber.mp3",
           "description": "you're gonna get ratioed bottomtuber",
           "updated_at": 1751028477
+        },
+        {
+          "name": "5d9bcb15-8888-4e52-ba23-b38bdadc694d",
+          "path": "valky/fisting_valky.mp3",
+          "description": "crelly fisting valky rant (concensual apparently)",
+          "updated_at": 1751176885
         }
       ]
     }

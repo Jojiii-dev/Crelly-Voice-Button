@@ -34,7 +34,10 @@
               九条夏目
             </a>
           </li>
-          <li>Sound file Sources: Twitch Clip, Discord, Youtube clips</li>
+          <li>
+            Sound file Sources: Twitch Clip, Discord, Youtube clips, Community
+            and mods submitted soundbites
+          </li>
         </ul>
       </VCardText>
     </VCard>
