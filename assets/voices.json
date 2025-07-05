@@ -483,6 +483,36 @@
           "path": "quotes/wdym.mp3",
           "description": "wdym",
           "updated_at": 1751449345
+        },
+        {
+          "name": "70abaa5c-0bf6-424f-a8e0-edeea9751ea4",
+          "path": "quotes/ayo_dp_stutter.mp3",
+          "description": "ayo dp, my bad, i didn't mean that, not in the double penetration way... (stutters)",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "43a8259e-1526-4f94-b062-dcaf155c59ea",
+          "path": "quotes/hold_on_a_second.mp3",
+          "description": "hooold on a second... waiiit",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "4997e4b8-3e4d-40c6-8b82-3cc8a1bed01b",
+          "path": "quotes/i_wanna_fuck_wasps.mp3",
+          "description": "I wanna fuck wasps",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "4b169364-aa11-4975-b86c-e30c02911ef2",
+          "path": "quotes/slightly_mad_ok.mp3",
+          "description": "ok (slightly madge)",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "ba93a5a0-51c0-4d98-b387-0d2ac5acc75e",
+          "path": "quotes/virgin_fuck_explained.mp3",
+          "description": "virgin fuck rant explained",
+          "updated_at": 1751709305
         }
       ]
     },
@@ -663,6 +693,42 @@
           "path": "noises/sucks_drool.mp3",
           "description": "(sucks drool)",
           "updated_at": 1751449345
+        },
+        {
+          "name": "a5125fc9-9792-4561-91ee-f5996b4c62f3",
+          "path": "noises/buh2.mp3",
+          "description": "buh 2",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "b7c877f1-bc82-4f27-b95c-642e52d5407d",
+          "path": "noises/clears_throat.mp3",
+          "description": "coughs and clears her throat",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "4b671daf-c971-482f-b1db-b49e2893da2c",
+          "path": "noises/mods_pspsp.mp3",
+          "description": "mods pspsps",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "6ca2f075-95b1-48cd-986a-54f697294cdf",
+          "path": "noises/moo.mp3",
+          "description": "moo",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "297e9065-47fd-4a4b-a25d-4b75a7db828d",
+          "path": "noises/um.mp3",
+          "description": "uum",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "2a019464-30da-404b-b4ac-d63ffc33931f",
+          "path": "noises/you_fucked_me_up.mp3",
+          "description": "you fucked me up x10",
+          "updated_at": 1751709305
         }
       ]
     },
@@ -705,6 +771,18 @@
           "path": "angy/fuck_you.mp3",
           "description": "fuck you",
           "updated_at": 1751449345
+        },
+        {
+          "name": "d0cc811d-c927-44f5-b957-0f112bbf724a",
+          "path": "angy/mods_rimble_his_berries.mp3",
+          "description": "mods, rimble his berries",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "e24eb86e-c32b-42f3-b5e6-983b9c14270a",
+          "path": "angy/wtf_is_this.mp3",
+          "description": "wtf is this",
+          "updated_at": 1751709305
         }
       ]
     },
@@ -1083,6 +1161,18 @@
           "path": "blush/ugh.mp3",
           "description": "uh~",
           "updated_at": 1751449345
+        },
+        {
+          "name": "9079a52a-1732-4d61-8b11-3afcd06f1ea5",
+          "path": "blush/omg_that_burger.mp3",
+          "description": "omg that burger looks so fucking good",
+          "updated_at": 1751709305
+        },
+        {
+          "name": "131391d8-b9ca-472d-b944-ccee78468407",
+          "path": "blush/sigh.mp3",
+          "description": "(sigh)",
+          "updated_at": 1751709305
         }
       ]
     },
