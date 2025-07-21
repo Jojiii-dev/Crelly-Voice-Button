@@ -233,6 +233,12 @@
           "updated_at": 1752228403
         },
         {
+          "name": "9c63fb4d-dc96-4994-b65c-04e29c723384",
+          "path": "friends/crelly_peeeaaanut.mp3",
+          "description": "peeeaaanut",
+          "updated_at": 1751449345
+        },
+        {
           "name": "3712d15d-a404-4252-a627-9f2561037d3a",
           "path": "friends/aquwa_strongest_cuck.mp3",
           "description": "I think Aquwa is the strongest cuck in history",
@@ -411,6 +417,12 @@
           "path": "quotes/soundboard_graduate.mp3",
           "description": "If that ends up on the soundboard I'm really gonna graduate for real",
           "updated_at": 1753076502
+        },
+        {
+          "name": "e863ac54-1427-43a6-b7e9-c020f351040a",
+          "path": "quotes/maybe_i_do_have_pinkeye.mp3",
+          "description": "Maybe I do have pink eye",
+          "updated_at": 1753005693
         }
       ]
     },
@@ -801,12 +813,6 @@
           "path": "noises/were_in.mp3",
           "description": "we're in x20",
           "updated_at": 1751354696
-        },
-        {
-          "name": "9c63fb4d-dc96-4994-b65c-04e29c723384",
-          "path": "noises/crelly_peeeaaanut.mp3",
-          "description": "peeeaaanut",
-          "updated_at": 1751449345
         },
         {
           "name": "5bb2dd04-f930-47a0-ac2f-6fde63ca38c2",
