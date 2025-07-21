@@ -71,13 +71,6 @@ export const links: T_Link[][] = [
   [
     {
       icon: {
-        emoji: '📝'
-      },
-      title: 'Crelly Bingo - by mw',
-      url: 'https://crellybingo.glitch.me/'
-    },
-    {
-      icon: {
         emoji: '🐄'
       },
       title: 'Submit a Sound',
