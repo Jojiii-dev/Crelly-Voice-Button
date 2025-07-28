@@ -133,6 +133,11 @@
           "path": "peepoofeetvore/shit_in_sink.mp3",
           "description": "have you guys ever taken a shit in the sink?",
           "updated_at": 1752228403
+        },
+        {
+          "path": "peepoofeetvore/i_want_you_to_piss_on_me.mp3",
+          "description": "I want you to piss on me",
+          "updated_at": 1753696315
         }
       ]
     },
@@ -209,6 +214,11 @@
           "path": "friends/thanks_for_the_fiverrr.mp3",
           "description": "(koko impression) anon thanks for the fiverrr",
           "updated_at": 1753259862
+        },
+        {
+          "path": "friends/milk_dm.mp3",
+          "description": "(milk random dm moans impression)",
+          "updated_at": 1753696246
         }
       ]
     },
@@ -365,6 +375,21 @@
           "path": "quotes/do_you_have_any_musical_talent.mp3",
           "description": "Do you have any musical talent?",
           "updated_at": 1753259862
+        },
+        {
+          "path": "quotes/cuck_like_me_wont_be_much_help.mp3",
+          "description": "Cuck like me won't be much help",
+          "updated_at": 1753696315
+        },
+        {
+          "path": "quotes/lurkbait_psps.mp3",
+          "description": "Lurkbait enjoyers psps",
+          "updated_at": 1753696315
+        },
+        {
+          "path": "quotes/watch_crojo.mp3",
+          "description": "Welcome to Watch Crojo",
+          "updated_at": 1753696315
         }
       ]
     },
@@ -566,6 +591,16 @@
           "path": "seggs/breast_inflation.mp3",
           "description": "yo inflation? breast inflation",
           "updated_at": 1753259862
+        },
+        {
+          "path": "seggs/8hrs_gooning.mp3",
+          "description": "8 hours of gooning is not bad",
+          "updated_at": 1753696315
+        },
+        {
+          "path": "seggs/youre_gonna_make_me_crum.mp3",
+          "description": "oh no... you're gonna make me crum",
+          "updated_at": 1753696315
         }
       ]
     },
@@ -812,6 +847,16 @@
           "path": "noises/microwave.mp3",
           "description": "micrewave",
           "updated_at": 1753076502
+        },
+        {
+          "path": "noises/gulp.mp3",
+          "description": "gulp",
+          "updated_at": 1753696315
+        },
+        {
+          "path": "noises/let_me_honk_honk.mp3",
+          "description": "Would you guys let me honk honk?",
+          "updated_at": 1753696315
         }
       ]
     },
@@ -975,6 +1020,21 @@
           "path": "memes/timmy3.mp3",
           "description": "(timmy) let me out of the mines. please give my parents back. i'm poor and stupid",
           "updated_at": 1752053933
+        },
+        {
+          "path": "memes/awooga.mp3",
+          "description": "AWOOGA",
+          "updated_at": 1753696315
+        },
+        {
+          "path": "memes/put_a_girl_on.mp3",
+          "description": "put a girl on x5",
+          "updated_at": 1753696315
+        },
+        {
+          "path": "memes/xdx_am_cuck.mp3",
+          "description": "xdx am cuck",
+          "updated_at": 1753696315
         }
       ]
     },
@@ -1027,7 +1087,7 @@
     },
     {
       "group_name": "daddy_pwincess",
-      "group_description": "💖 daddy pwincess 👸",
+      "group_description": "💖👸",
       "voice_list": [
         {
           "path": "daddy_pwincess/can_i_have_daddy_pwincess_pls.mp3",
@@ -1053,6 +1113,107 @@
           "path": "daddy_pwincess/pwincess_rest.mp3",
           "description": "did you west your wittle pwwincess head on your wittle pwincess pillow",
           "updated_at": 1750321715
+        }
+      ]
+    },
+    {
+      "group_name": "shock",
+      "group_description": "⚡",
+      "voice_list": [
+        {
+          "path": "shock/shock.mp3",
+          "description": "shock",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock2.mp3",
+          "description": "shock2",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock3.mp3",
+          "description": "shock3",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock4.mp3",
+          "description": "shock4",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock5.mp3",
+          "description": "shock5",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock6.mp3",
+          "description": "shock6",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock7.mp3",
+          "description": "shock7",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock8.mp3",
+          "description": "shock8",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock9.mp3",
+          "description": "shock9",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock10.mp3",
+          "description": "shock10",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock11.mp3",
+          "description": "shock11",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock12.mp3",
+          "description": "shock12",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock13.mp3",
+          "description": "shock13",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/cuck_shock.mp3",
+          "description": "cuck shock",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/drinking_shock.mp3",
+          "description": "drinking shock",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/vibrate_shock.mp3",
+          "description": "oh it vibrated (gets shocked)",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/vibrating_shock.mp3",
+          "description": "it's vibrating... (shocks)",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/phone_number_moan.mp3",
+          "description": "everytime asks me for my phone number I say (moans)",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "shock/shock_time_to_move.mp3",
+          "description": "(moans) ok it's time to move it... the same spot is getting a bit ouch",
+          "updated_at": 1753695377
         }
       ]
     },
@@ -1189,6 +1350,16 @@
           "path": "blush/not_real_forget_about_it.mp3",
           "description": "it's not real...don't look at it, it's ok ...shh forget about it",
           "updated_at": 1752053933
+        },
+        {
+          "path": "blush/comeon_be_honest.mp3",
+          "description": "oh come on.... be honest",
+          "updated_at": 1753695377
+        },
+        {
+          "path": "blush/jerking_off_all_by_yourself_handsome.mp3",
+          "description": "Jerking off all by yourself handsome?",
+          "updated_at": 1753695377
         }
       ]
     },
