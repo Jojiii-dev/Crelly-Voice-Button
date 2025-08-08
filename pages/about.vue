@@ -8,7 +8,10 @@
         <ul class="list-disc pl-6">
           <p>
             Thanks for visiting my little crelly soundboard site. I hope you
-            enjoyed it.
+            enjoyed it. All the sounds are from Crelly's stream or clips. No AI
+            generated soundbites here. Most soundbites are only trimmed and have
+            bgm or noises removed. Only the ones specifically said it's edited
+            are edited and stiched together.
           </p>
           <li>
             Created by:
