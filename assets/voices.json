@@ -289,6 +289,16 @@
           "path": "friends/i_love_koko.mp3",
           "description": "I love koko so much dude, koko's so funny. I was lurking on her stream last night and I had my hands busy",
           "updated_at": 1754653368
+        },
+        {
+          "path": "friends/crelly_koko_dating.mp3",
+          "description": "Koko and I are dating",
+          "updated_at": 1755081372
+        },
+        {
+          "path": "friends/koko_back_wart.mp3",
+          "description": "I wish I was a weird wart on Koko's back, that would be awesome",
+          "updated_at": 1755081372
         }
       ]
     },
@@ -495,6 +505,16 @@
           "path": "quotes/im_a_cannibal.mp3",
           "description": "that's right I'm a cannibal. and I'm not even afraid to admit it. I'd eat a human too",
           "updated_at": 1754653842
+        },
+        {
+          "path": "quotes/bruise_seagull_shit.mp3",
+          "description": "I had a bruise from seagull shit",
+          "updated_at": 1755081873
+        },
+        {
+          "path": "quotes/pokeball_sniff.mp3",
+          "description": "Are you guys rageful that I sniff my Pokeballs in the bathroom?",
+          "updated_at": 1755081873
         }
       ]
     },
@@ -776,6 +796,11 @@
           "path": "seggs/would_you_guys_let_me_hit.mp3",
           "description": "Would you guys let me hit?",
           "updated_at": 1754653995
+        },
+        {
+          "path": "seggs/yea_im_a_cuck.mp3",
+          "description": "Yea I'm a cuck",
+          "updated_at": 1755081992
         }
       ]
     },
@@ -1098,6 +1123,11 @@
           "path": "angy/stop_skipping.mp3",
           "description": "(loud) STOOOP SKIPPING",
           "updated_at": 1754652170
+        },
+        {
+          "path": "angy/mods_tickle_balls.mp3",
+          "description": "mods, tickle their balls",
+          "updated_at": 1755081294
         }
       ]
     },
@@ -1675,6 +1705,11 @@
           "path": "blush/i_know_what_you_want.mp3",
           "description": "I know what you want and I know what's good for you, and that's why I don't use this voice. It's not what you really want",
           "updated_at": 1754652236
+        },
+        {
+          "path": "blush/disgusting_worms.mp3",
+          "description": "You're all a bunch of little disgusting slimy little worms. You fucking make me sick you little freaky worm fucks",
+          "updated_at": 1755081318
         }
       ]
     },
