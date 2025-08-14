@@ -1,8 +1,8 @@
 {
-  "title": "Crelly 🎱🐮 Soundboard",
-  "description": "Silly Crelly Sounds",
-  "keywords": "VTuber VoiceButton Crelly The Cow Soundboard Silly Vore Poop Buh Feet PooTuber Poo Valky Valkyprin",
-  "url": "https://crelly.vercel.app",
+  "title": "Aquwa 💙 Soundboard",
+  "description": "Silly Aquwa Sounds",
+  "keywords": "VTuber VoiceButton Aquwa Alien Soundboard Silly",
+  "url": "https://aquwa.vercel.app",
   "twitter_user": "@Jojiii_dev",
   "theme_color": "#00bc7d",
   "footer": {
@@ -12,11 +12,11 @@
         "link": "https://x.com/Jojiii_dev"
       }
     ],
-    "repo_link": "https://github.com/Jojiii-dev/Crelly-Voice-Button",
+    "repo_link": "https://github.com/Jojiii-dev/Aquwa-Voice-Button",
     "content": "This site is just a fan made one for fun. Not officailly associated with {0}. For more info please check {1} & {2}",
     "content_params": [
       {
-        "name": "Crelly"
+        "name": "Aquwa"
       },
       {
         "name": "About",
@@ -25,7 +25,7 @@
       },
       {
         "name": "Source Code",
-        "link": "https://github.com/Jojiii-dev/Crelly-Voice-Button",
+        "link": "https://github.com/Jojiii-dev/Aquwa-Voice-Button",
         "target": "_blank"
       }
     ]
