@@ -32,7 +32,7 @@ export const links: T_Link[][] = [
         name: 'mdi-twitch'
       },
       title: 'Twitch',
-      url: 'https://www.twitch.tv/aquwa'
+      url: 'https://www.twitch.tv/crelly'
     },
     {
       icon: {
@@ -40,7 +40,7 @@ export const links: T_Link[][] = [
         name: 'mdi-twitter'
       },
       title: 'Twitter',
-      url: 'https://twitter.com/aquwa_vt'
+      url: 'https://twitter.com/crellythecow'
     },
     {
       icon: {
@@ -48,15 +48,24 @@ export const links: T_Link[][] = [
         name: 'mdi-discord'
       },
       title: 'Discord',
-      url: 'https://discord.gg/aquwa'
+      url: 'https://discord.gg/Syby6wNbKv'
     },
+
     {
       icon: {
         color: '#FF0032',
         name: 'mdi-youtube'
       },
       title: 'Youtube',
-      url: 'https://www.youtube.com/@Aquwa_VT'
+      url: 'https://www.youtube.com/channel/UCwxaNWg74VccV65gr_L6JZg'
+    },
+    {
+      icon: {
+        color: '#FF0032',
+        name: 'mdi-youtube'
+      },
+      title: 'VODs channel',
+      url: 'https://www.youtube.com/@crellyvods'
     }
   ],
   [
@@ -64,8 +73,8 @@ export const links: T_Link[][] = [
       icon: {
         emoji: '🐄'
       },
-      title: 'Crelly Soundboard',
-      url: 'https://crelly.vercel.app'
+      title: 'Submit a Sound',
+      url: 'https://forms.gle/1W7i6Tj8C7CMM1WSA'
     }
   ]
 ];

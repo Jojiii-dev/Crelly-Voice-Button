@@ -2,13 +2,16 @@
   <div>
     <VCard>
       <VCardTitle>
-        <span class="text-3xl">Aquwa Soundboard</span>
+        <span class="text-3xl">Crelly Soundboard</span>
       </VCardTitle>
       <VCardText class="text-lg">
         <ul class="list-disc pl-6">
           <p>
-            Thanks for visiting my little soundboard site. I hope you enjoyed
-            it.
+            Thanks for visiting my little crelly soundboard site. I hope you
+            enjoyed it. All the sounds are from Crelly's stream or clips. No AI
+            generated soundbites here. Most soundbites are only trimmed and have
+            bgm or noises removed. Only the ones specifically said it's edited
+            are edited and stiched together.
           </p>
           <li>
             Created by:
@@ -38,7 +41,10 @@
             Sound file Sources: Twitch Clip, Discord, Youtube clips, Community
             and mods submitted soundbites
           </li>
-          <li>Contributors for soundbites: Jojiii</li>
+          <li>
+            Contributors for soundbites (let me know if you've submitted and
+            want to be added here): ZeroRelevance0, mw
+          </li>
         </ul>
       </VCardText>
     </VCard>
