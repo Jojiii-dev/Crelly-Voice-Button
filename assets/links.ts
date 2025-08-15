@@ -71,6 +71,15 @@ export const links: T_Link[][] = [
   [
     {
       icon: {
+        emoji: '💙'
+      },
+      title: 'Aquwa Soundboard',
+      url: 'https://aquwa.vercel.app'
+    }
+  ],
+  [
+    {
+      icon: {
         emoji: '📝'
       },
       title: 'Crelly Bingo - by mw',
