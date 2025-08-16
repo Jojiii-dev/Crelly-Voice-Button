@@ -525,6 +525,16 @@
           "path": "quotes/pokeball_sniff.mp3",
           "description": "Are you guys rageful that I sniff my Pokeballs in the bathroom?",
           "updated_at": 1755081873
+        },
+        {
+          "path": "quotes/for_joji_soundboard.opus",
+          "description": "Let me get a clean version of that for Joji's soundboard",
+          "updated_at": 1755385083
+        },
+        {
+          "path": "quotes/mrkrabs.opus",
+          "description": "(Crelly finds Mr. Krabs rubbing dollar on his taint hot)",
+          "updated_at": 1755385083
         }
       ]
     },
@@ -811,6 +821,21 @@
           "path": "seggs/yea_im_a_cuck.mp3",
           "description": "Yea I'm a cuck",
           "updated_at": 1755081992
+        },
+        {
+          "path": "seggs/foreskin_science_quickpoll.opus",
+          "description": "Press 1 to relinquish your foreskin to science",
+          "updated_at": 1755385305
+        },
+        {
+          "path": "seggs/hi_female.opus",
+          "description": "Hi female, I would love to have sex",
+          "updated_at": 1755385446
+        },
+        {
+          "path": "seggs/just_keep_cumming.opus",
+          "description": "Just keep cumming and cumming and cumming",
+          "updated_at": 1755385446
         }
       ]
     },
@@ -1720,6 +1745,11 @@
           "path": "blush/disgusting_worms.mp3",
           "description": "You're all a bunch of little disgusting slimy little worms. You fucking make me sick you little freaky worm fucks",
           "updated_at": 1755081318
+        },
+        {
+          "path": "blush/you_can_call_me_daddy.opus",
+          "description": "You can call me daddy",
+          "updated_at": 1755385421
         }
       ]
     },
