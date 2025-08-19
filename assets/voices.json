@@ -540,6 +540,11 @@
           "path": "quotes/mrkrabs.opus",
           "description": "(Crelly finds Mr. Krabs rubbing dollar on his taint hot)",
           "updated_at": 1755385083
+        },
+        {
+          "path": "quotes/karma_wont_get_me.opus",
+          "description": "Karma won't get me because karma's a bitch and I don't get any of those",
+          "updated_at": 1755599467
         }
       ]
     },
