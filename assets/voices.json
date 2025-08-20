@@ -537,6 +537,16 @@
           "updated_at": 1755081873
         },
         {
+          "path": "quotes/for_joji_soundboard.opus",
+          "description": "Let me get a clean version of that for Joji's soundboard",
+          "updated_at": 1755385083
+        },
+        {
+          "path": "quotes/mrkrabs.opus",
+          "description": "(Crelly finds Mr. Krabs rubbing dollar on his taint hot)",
+          "updated_at": 1755385083
+		},
+		{
           "path": "quotes/babe_does_my_hoodie_smell_like_cum.opus",
           "description": "Babe does my hoodie smell like cum?",
           "updated_at": 1755691048
@@ -853,6 +863,21 @@
           "updated_at": 1755081992
         },
         {
+          "path": "seggs/foreskin_science_quickpoll.opus",
+          "description": "Press 1 to relinquish your foreskin to science",
+          "updated_at": 1755385305
+        },
+        {
+          "path": "seggs/hi_female.opus",
+          "description": "Hi female, I would love to have sex",
+          "updated_at": 1755385446
+        },
+        {
+          "path": "seggs/just_keep_cumming.opus",
+          "description": "Just keep cumming and cumming and cumming",
+          "updated_at": 1755385446
+          },
+          {
           "path": "seggs/dig_my_hole_quickpoll.opus",
           "description": "press 1 to dig my hole",
           "updated_at": 1755691834
@@ -1817,6 +1842,10 @@
           "updated_at": 1755081318
         },
         {
+          "path": "blush/you_can_call_me_daddy.opus",
+          "description": "You can call me daddy",
+          "updated_at": 1755385421
+          },{
           "path": "blush/any_volunteers.opus",
           "description": "ayo I mean I'm pretty good at it but I could use some help. any volunteers?",
           "updated_at": 1755689917
