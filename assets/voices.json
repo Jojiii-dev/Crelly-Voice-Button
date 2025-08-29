@@ -660,6 +660,11 @@
           "path": "quotes/youre_gonna_leak.opus",
           "description": "ooomg hnng you're gonna leak",
           "updated_at": 1756385748
+        },
+        {
+          "path": "quotes/i_do_eat_food_off_the_floor.opus",
+          "description": "I do eat food off the floor",
+          "updated_at": 1756500994
         }
       ]
     },
@@ -1327,6 +1332,16 @@
           "path": "noises/first_moo.opus",
           "description": "(crelly's first moo from pink debut)",
           "updated_at": 1756383695
+        },
+        {
+          "path": "noises/er.opus",
+          "description": "er",
+          "updated_at": 1756501002
+        },
+        {
+          "path": "noises/huh.opus",
+          "description": "HUH?",
+          "updated_at": 1756501002
         }
       ]
     },
