@@ -1382,6 +1382,11 @@
           "path": "noises/cresheep.mp3",
           "description": "cresheep",
           "updated_at": 1756584923
+        },
+        {
+          "path": "noises/muwu.mp3",
+          "description": "muwu",
+          "updated_at": 1756614677
         }
       ]
     },
@@ -1685,7 +1690,7 @@
         },
         {
           "path": "corpa/gsups.opus",
-          "description": "oh wait, hold on, are you telling me taht I'm sponsored with gamersupps?",
+          "description": "oh wait, hold on, are you telling me that I'm sponsored with gamersupps?",
           "updated_at": 1756380535
         }
       ]
@@ -2100,6 +2105,11 @@
           "path": "blush/im_coming_for_you.opus",
           "description": "I'm coming for you",
           "updated_at": 1756380505
+        },
+        {
+          "path": "blush/were_you_excited_to_goon.opus",
+          "description": "awww were you excited to goon?",
+          "updated_at": 1756614729
         }
       ]
     },
