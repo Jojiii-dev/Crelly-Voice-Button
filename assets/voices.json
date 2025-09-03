@@ -344,6 +344,11 @@
           "path": "friends/hi_staz.opus",
           "description": "hii staz",
           "updated_at": 1756381515
+        },
+        {
+          "path": "friends/baggypantsman-rod.mp3",
+          "description": "I would love to hold baggypantsman's rod",
+          "updated_at": 1756791729
         }
       ]
     },
@@ -660,6 +665,31 @@
           "path": "quotes/youre_gonna_leak.opus",
           "description": "ooomg hnng you're gonna leak",
           "updated_at": 1756385748
+        },
+        {
+          "path": "quotes/i_do_eat_food_off_the_floor.opus",
+          "description": "I do eat food off the floor",
+          "updated_at": 1756500994
+        },
+        {
+          "path": "quotes/dumbass_affectionate.mp3",
+          "description": "(affetionately) you're such a little dumbass... you're so fucking stupid x2",
+          "updated_at": 1756584997
+        },
+        {
+          "path": "quotes/hey_bitch_hehe.mp3",
+          "description": "Hey bitch!... hehe",
+          "updated_at": 1756584997
+        },
+        {
+          "path": "quotes/ohh_i_want_him.opus",
+          "description": "ohh I want him",
+          "updated_at": 1756584997
+        },
+        {
+          "path": "quotes/viscous_crilk.opus",
+          "description": "Can you guys please just take a sip of my viscous Crilk?",
+          "updated_at": 1756584997
         }
       ]
     },
@@ -1036,6 +1066,21 @@
           "path": "seggs/get_pregnant2.opus",
           "description": "(plap plap) get pregnant get pregnant",
           "updated_at": 1756386095
+        },
+        {
+          "path": "seggs/big_heinous.mp3",
+          "description": "big heinous anus",
+          "updated_at": 1756585179
+        },
+        {
+          "path": "seggs/press_one_for_premature.mp3",
+          "description": "Press 1 for premeturely cum",
+          "updated_at": 1756585179
+        },
+        {
+          "path": "seggs/two_rules.mp3",
+          "description": "we have two rules today, no putting my hands on you, 2. no talking about your prostate",
+          "updated_at": 1756585179
         }
       ]
     },
@@ -1327,6 +1372,26 @@
           "path": "noises/first_moo.opus",
           "description": "(crelly's first moo from pink debut)",
           "updated_at": 1756383695
+        },
+        {
+          "path": "noises/er.opus",
+          "description": "er",
+          "updated_at": 1756501002
+        },
+        {
+          "path": "noises/huh.opus",
+          "description": "HUH?",
+          "updated_at": 1756501002
+        },
+        {
+          "path": "noises/cresheep.mp3",
+          "description": "cresheep",
+          "updated_at": 1756584923
+        },
+        {
+          "path": "noises/muwu.mp3",
+          "description": "muwu",
+          "updated_at": 1756614677
         }
       ]
     },
@@ -1388,6 +1453,11 @@
           "path": "angy/mods_tickle_balls.mp3",
           "description": "mods, tickle their balls",
           "updated_at": 1755081294
+        },
+        {
+          "path": "angy/pirhana_pit.mp3",
+          "description": "mods, escort this man to the pirhana pit",
+          "updated_at": 1756584894
         }
       ]
     },
@@ -1625,7 +1695,7 @@
         },
         {
           "path": "corpa/gsups.opus",
-          "description": "oh wait, hold on, are you telling me taht I'm sponsored with gamersupps?",
+          "description": "oh wait, hold on, are you telling me that I'm sponsored with gamersupps?",
           "updated_at": 1756380535
         }
       ]
@@ -2040,6 +2110,11 @@
           "path": "blush/im_coming_for_you.opus",
           "description": "I'm coming for you",
           "updated_at": 1756380505
+        },
+        {
+          "path": "blush/were_you_excited_to_goon.opus",
+          "description": "awww were you excited to goon?",
+          "updated_at": 1756614729
         }
       ]
     },
