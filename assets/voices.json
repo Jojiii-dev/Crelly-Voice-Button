@@ -780,6 +780,26 @@
           "path": "quotes/waa_theyre_hot.opus",
           "description": "(crying) they're hot... they're so hot all the time",
           "updated_at": 1756899275
+        },
+        {
+          "path": "quotes/dad_from_caroline.opus",
+          "description": "Man I want to get the dad from Caroline pregnant",
+          "updated_at": 1756983924
+        },
+        {
+          "path": "quotes/i_like_to_watch.opus",
+          "description": "go ahead I'll watch. I like to watch",
+          "updated_at": 1756983924
+        },
+        {
+          "path": "quotes/tsundere.opus",
+          "description": "(tsundere crelly confession)",
+          "updated_at": 1756983924
+        },
+        {
+          "path": "quotes/wish_i_could_watch.opus",
+          "description": "I wish I could watch",
+          "updated_at": 1756983924
         }
       ]
     },
@@ -1542,6 +1562,21 @@
           "path": "noises/honk_honk.mp3",
           "description": "honk honk",
           "updated_at": 1756898198
+        },
+        {
+          "path": "noises/crestutter.opus",
+          "description": "(one of the longest creStutters)",
+          "updated_at": 1756983831
+        },
+        {
+          "path": "noises/regret.opus",
+          "description": "(noise of regret)",
+          "updated_at": 1756983831
+        },
+        {
+          "path": "noises/uwaaa.opus",
+          "description": "(fake cry) uwaaa",
+          "updated_at": 1756983831
         }
       ]
     },
@@ -1623,6 +1658,16 @@
           "path": "angy/pool_noodle_madge.opus",
           "description": "(crelly threatens to personally attack Jojiii 😨)",
           "updated_at": 1756896091
+        },
+        {
+          "path": "angy/flick_like_booger.opus",
+          "description": "I'll flick you like a booger son",
+          "updated_at": 1756983110
+        },
+        {
+          "path": "angy/fuck_you_guys.opus",
+          "description": "fuck you guys",
+          "updated_at": 1756983110
         }
       ]
     },
@@ -1780,6 +1825,11 @@
           "path": "memes/shup_up.mp3",
           "description": "shup up",
           "updated_at": 1754653626
+        },
+        {
+          "path": "memes/this_shit_aint_nothing_to_me_man.opus",
+          "description": "this shit aint nothing to me man",
+          "updated_at": 1756983783
         }
       ]
     },
@@ -2304,6 +2354,16 @@
         {
           "path": "blush/rizzing_wives.opus",
           "description": "(crelly rizzing chat's wives)",
+          "updated_at": 1756897625
+        },
+        {
+          "path": "blush/you_like_that.opus",
+          "description": "yea you like that? you like that you fucking freak?",
+          "updated_at": 1756897625
+        },
+        {
+          "path": "blush/you_like_that_duality.opus",
+          "description": "you like that? (normal vs deep voice)",
           "updated_at": 1756897625
         }
       ]
