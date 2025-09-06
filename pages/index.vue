@@ -22,13 +22,7 @@
         />
 
         <VList>
-          <VListItem
-            @click.stop="
-              goTo(`[data-sound-name='${currentPlayingSound?.name}']`, {
-                offset: -100
-              })
-            "
-          >
+          <VListItem>
             <VListItemTitle class="!whitespace-normal">
               {{ currentPlayingSound?.name }}
             </VListItemTitle>
@@ -95,7 +89,6 @@
     <ClientOnly>
       <VSonner
         position="top-right"
-        timeout="-1"
         :toast-options="{
           style: { background: '#c4986f', borderRadius: '8px' }
         }"
@@ -283,9 +276,13 @@ onMounted(() => {
   }
 
   if (route.query?.btn && route.query?.name) {
+    const search = decodeURIComponent(route.query.name as string);
+
+    filterState.search = search;
+
     playSound(
       decodeURIComponent(route.query.btn as string),
-      decodeURIComponent(route.query.name as string)
+      decodeURIComponent(search)
     );
   }
 });
