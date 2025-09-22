@@ -1,132 +1,10 @@
 <template>
   <div>
-    <VCard>
-      <VCardText>
-        <VTextField
-          v-model="search"
-          placeholder="Search for sound..."
-          variant="outlined"
-          color="primary"
-          append-icon="mdi-magnify"
-          @click:append="doSearch"
-          hide-details
-          @keyup.enter="doSearch"
-          append-inner-icon="mdi-close"
-          @click:append-inner="
-            search = '';
-            doSearch();
-          "
-        />
-      </VCardText>
-    </VCard>
-    <div class="h-4" />
-    <VProgressCircular v-if="isSearching" indeterminate color="secondary" />
-
-    <div
-      v-if="filteredSounds.length === 0 && !isSearching && !!search"
-      class="text-center"
-    >
-      Can't find any sound matching "{{ search }}". Please try again.
-    </div>
-
-    <VTabs v-if="!isSearching" class="mb-3" hide-slider>
-      <VTab
-        v-for="group in filteredSounds"
-        :key="group.group_name"
-        class="text-primary-200"
-        @click="
-          goTo(`#group-btn-${group.group_name}`, {
-            offset: -100
-          })
-        "
-      >
-        {{ group.group_description }}
-      </VTab>
-    </VTabs>
-
-    <VExpansionPanels v-model="expansionPanelController" multiple>
-      <VExpansionPanel
-        v-if="newSounds.length"
-        key="new"
-        value="new"
-        id="group-btn-new"
-      >
-        <VExpansionPanelTitle>
-          <span class="text-2xl">Recently Added</span>
-        </VExpansionPanelTitle>
-
-        <VExpansionPanelText>
-          <VBtn
-            v-for="voice in newSounds"
-            :key="voice.name"
-            @click="playSound(voice.path, voice.description)"
-            class="sound_btn !rounded-[28px] overflow-hidden"
-            :color="
-              currentPlayingSound?.name === voice.description
-                ? 'secondary'
-                : 'primary'
-            "
-            variant="flat"
-            :data-sound-name="voice.description"
-          >
-            <div>
-              {{ voice.description }}
-            </div>
-            <VProgressLinear
-              v-if="currentPlayingSound?.name === voice.description"
-              :model-value="currentPlayingSound?.progress"
-              color="secondary"
-              class="!absolute !bottom-0 !top-auto left-0 w-full"
-            />
-          </VBtn>
-        </VExpansionPanelText>
-      </VExpansionPanel>
-      <VExpansionPanel
-        v-for="group in filteredSounds"
-        :key="group.group_name"
-        :value="group.group_name"
-        :id="`group-btn-${group.group_name}`"
-      >
-        <VExpansionPanelTitle>
-          <span class="text-2xl">
-            {{ group.group_description }}
-          </span>
-        </VExpansionPanelTitle>
-
-        <VExpansionPanelText>
-          <VBadge
-            offset-x="15"
-            v-for="voice in group.voice_list"
-            :key="voice.name"
-            :model-value="isIn7Days(voice.updated_at)"
-            color="secondary-400"
-            content="new"
-          >
-            <VBtn
-              @click="playSound(voice.path, voice.description)"
-              class="sound_btn !rounded-[28px] overflow-hidden"
-              :color="
-                currentPlayingSound?.name === voice.description
-                  ? 'secondary'
-                  : 'primary'
-              "
-              variant="flat"
-              :data-sound-name="voice.description"
-            >
-              <div>
-                {{ voice.description }}
-              </div>
-              <VProgressLinear
-                v-if="currentPlayingSound?.name === voice.description"
-                :model-value="currentPlayingSound?.progress"
-                color="secondary"
-                class="!absolute !bottom-0 !top-auto left-0 w-full"
-              />
-            </VBtn>
-          </VBadge>
-        </VExpansionPanelText>
-      </VExpansionPanel>
-    </VExpansionPanels>
+    <DataTable
+      :groups="sounds.groups"
+      :filter="filterState"
+      :playSound="playSound"
+    />
 
     <VBottomSheet
       inset
@@ -144,13 +22,7 @@
         />
 
         <VList>
-          <VListItem
-            @click.stop="
-              goTo(`[data-sound-name='${currentPlayingSound?.name}']`, {
-                offset: -100
-              })
-            "
-          >
+          <VListItem>
             <VListItemTitle class="!whitespace-normal">
               {{ currentPlayingSound?.name }}
             </VListItemTitle>
@@ -217,7 +89,6 @@
     <ClientOnly>
       <VSonner
         position="top-right"
-        timeout="-1"
         :toast-options="{
           style: { background: '#c4986f', borderRadius: '8px' }
         }"
@@ -241,59 +112,19 @@ import sounds from '~/assets/voices.json';
 import dayjs from 'dayjs';
 
 const route = useRoute();
-const goTo = useGoTo();
-
-const isIn7Days = (unixtimestamp: number) => {
-  return dayjs().diff(dayjs.unix(unixtimestamp), 'day') < 7;
-};
-
-type T_SoundStructure = typeof sounds;
 
 const isPageLoading = ref(true);
-
-const search = ref('');
-
-const filteredSounds = ref(sounds.groups);
-const newSounds = computed(() =>
-  filteredSounds.value
-    .map((g) => g.voice_list.filter((s) => isIn7Days(s.updated_at)))
-    .flat()
-);
-const isSearching = ref(false);
-const doSearch = () => {
-  if (!search.value) {
-    filteredSounds.value = sounds.groups;
-    isSearching.value = false;
-    return;
-  }
-
-  isSearching.value = true;
-
-  filteredSounds.value = sounds.groups
-    .map((group) => {
-      const isGroupMatch = group.group_name.includes(search.value);
-
-      const filteredVoiceList = group.voice_list.filter((voice) =>
-        voice.description.includes(search.value)
-      );
-
-      return isGroupMatch || filteredVoiceList.length > 0
-        ? {
-            ...group,
-            voice_list: filteredVoiceList
-          }
-        : null;
-    })
-    .filter((group) => !!group);
-
-  isSearching.value = false;
-};
 
 const soundSettings = ref<{
   loop?: boolean;
   volume?: number;
   stack?: boolean;
 }>({});
+
+const filterState = reactive({
+  group: 'All',
+  search: '',
+});
 
 const toggleSoundLoop = () => {
   soundSettings.value.loop = !soundSettings.value.loop;
@@ -395,8 +226,6 @@ const playSound = async (soundPath: string, soundName: string) => {
 };
 
 const playRandomSound = async () => {
-  search.value = '';
-  doSearch();
   stopSound();
   const randomSoundGroup =
     sounds.groups[Math.floor(Math.random() * sounds.groups.length)];
@@ -406,7 +235,6 @@ const playRandomSound = async () => {
     ];
 
   await nextTick();
-  goTo(`#group-btn-${randomSoundGroup.group_name}`);
 
   playSound(randomSound.path, randomSound.description);
 };
@@ -424,8 +252,6 @@ const stopSound = () => {
   currentPlayingSound.value = null;
 };
 
-const expansionPanelController = ref<string[]>([]);
-
 const doShare = () => {
   const currentSound = currentPlayingSound.value;
   if (!currentSound) return;
@@ -441,9 +267,6 @@ const doShare = () => {
 const hasClipboard = ref(true);
 
 onMounted(() => {
-  expansionPanelController.value = sounds.groups.map(
-    (group) => group.group_name
-  );
   nextTick(() => {
     isPageLoading.value = false;
   });
@@ -453,9 +276,13 @@ onMounted(() => {
   }
 
   if (route.query?.btn && route.query?.name) {
+    const search = decodeURIComponent(route.query.name as string);
+
+    filterState.search = search;
+
     playSound(
       decodeURIComponent(route.query.btn as string),
-      decodeURIComponent(route.query.name as string)
+      decodeURIComponent(search)
     );
   }
 });
