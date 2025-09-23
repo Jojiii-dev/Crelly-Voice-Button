@@ -414,6 +414,11 @@
           "path": "friends/shirtpants_swooner.opus",
           "description": "(Shirtpants swooner)",
           "updated_at": 1757408816
+        },
+        {
+          "path": "friends/caught_by_koko.opus",
+          "description": "(caught by koko while doing deep voice)",
+          "updated_at": 1758619698
         }
       ]
     },
@@ -965,6 +970,21 @@
           "path": "quotes/thats_crazy.opus",
           "description": "That's crazy x2",
           "updated_at": 1758528920
+        },
+        {
+          "path": "quotes/gooner_quickpoll.opus",
+          "description": "Gooner quickpoll",
+          "updated_at": 1758619751
+        },
+        {
+          "path": "quotes/i_wanna_be_rubbed.opus",
+          "description": "no I wanna be rubbed, I need to be rubbed. You gotta rub harderrrr it's not workinggg",
+          "updated_at": 1758619751
+        },
+        {
+          "path": "quotes/rub_me_quickpoll.opus",
+          "description": "press 1 to rub me",
+          "updated_at": 1758619751
         }
       ]
     },
@@ -2645,6 +2665,11 @@
           "path": "blush/love_to_see_you_try_and_fail.opus",
           "description": "I love to sit here and watch you guys try and fail. It pleases me",
           "updated_at": 1758528767
+        },
+        {
+          "path": "blush/you_make_it_hard.opus",
+          "description": "You make it so, so incredibly hard",
+          "updated_at": 1758619530
         }
       ]
     },
