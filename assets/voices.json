@@ -985,6 +985,41 @@
           "path": "quotes/rub_me_quickpoll.opus",
           "description": "press 1 to rub me",
           "updated_at": 1758619751
+        },
+        {
+          "path": "quotes/buhflipexplode_instructions.opus",
+          "description": "(How to buhFlipExplodes)",
+          "updated_at": 1758702849
+        },
+        {
+          "path": "quotes/crelly_is_a_dookie_fart.opus",
+          "description": "crelly is a dookie fart who sucks and gets cucked",
+          "updated_at": 1758702849
+        },
+        {
+          "path": "quotes/ew_used_panties_gay.opus",
+          "description": "If you like woman and you're like ew used panties, then you're then you're gay",
+          "updated_at": 1758702849
+        },
+        {
+          "path": "quotes/i_wanna_fuck_an_old_bitch.opus",
+          "description": "I wanna fuck an old bitch",
+          "updated_at": 1758702849
+        },
+        {
+          "path": "quotes/kachow_ass.opus",
+          "description": "Kachow, I wanna fuck you in the ass",
+          "updated_at": 1758702849
+        },
+        {
+          "path": "quotes/start_crying_about_it_pussy.opus",
+          "description": "start crying about it pussy",
+          "updated_at": 1758702849
+        },
+        {
+          "path": "quotes/want_to_suck_your_buh.opus",
+          "description": "I want to suck your buh",
+          "updated_at": 1758702849
         }
       ]
     },
@@ -1802,6 +1837,26 @@
           "path": "noises/uwaaa.opus",
           "description": "(fake cry) uwaaa",
           "updated_at": 1756983831
+        },
+        {
+          "path": "noises/ahaa.opus",
+          "description": "AHAA↗",
+          "updated_at": 1758702586
+        },
+        {
+          "path": "noises/buhbuhbuh.opus",
+          "description": "BUH x3",
+          "updated_at": 1758702586
+        },
+        {
+          "path": "noises/whiteboard.opus",
+          "description": "creWhiteboard",
+          "updated_at": 1758702586
+        },
+        {
+          "path": "noises/wtf_are_these.opus",
+          "description": "wtf are these x4",
+          "updated_at": 1758702640
         }
       ]
     },
@@ -1913,6 +1968,11 @@
           "path": "angy/wdym_im_being_normal.opus",
           "description": "WHAT DO YOU MEAN I'M FUCKING WEIRD I'M BEING FUCKING NORMAL RIGHT NOW",
           "updated_at": 1757919130
+        },
+        {
+          "path": "angy/mods_mooods.opus",
+          "description": "Mods... MOOOODS",
+          "updated_at": 1758702073
         }
       ]
     },
@@ -2090,6 +2150,11 @@
           "path": "memes/that_shit_is_something_to_me_man.opus",
           "description": "that shit is something to me man",
           "updated_at": 1757388159
+        },
+        {
+          "path": "memes/have_wideamongusgaysex.opus",
+          "description": "have WideAmongusGaySex",
+          "updated_at": 1758702381
         }
       ]
     },
@@ -2670,6 +2735,16 @@
           "path": "blush/you_make_it_hard.opus",
           "description": "You make it so, so incredibly hard",
           "updated_at": 1758619530
+        },
+        {
+          "path": "blush/call_you_a_good_boy.opus",
+          "description": "I'll call you a good boy",
+          "updated_at": 1758702101
+        },
+        {
+          "path": "blush/you_wanna_get_fucking_railed.opus",
+          "description": "It's true though isn't it? You wanna get fucking railed?",
+          "updated_at": 1758702101
         }
       ]
     },
