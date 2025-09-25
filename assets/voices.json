@@ -1035,6 +1035,11 @@
           "path": "quotes/femboy_crelly.opus",
           "description": "Hi guys it's me the femboy, crelly the cow",
           "updated_at": 1758787034
+        },
+        {
+          "path": "quotes/dont_add_that_to_the_soundboard.opus",
+          "description": "Don't add that to the soundboard, don't add that to the soundboard",
+          "updated_at": 1758787034
         }
       ]
     },
