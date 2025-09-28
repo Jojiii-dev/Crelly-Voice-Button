@@ -419,6 +419,11 @@
           "path": "friends/caught_by_koko.opus",
           "description": "(caught by koko while doing deep voice)",
           "updated_at": 1758619698
+        },
+        {
+          "path": "friends/fu_vandal.opus",
+          "description": "FU verdantvadal (crelly's mod)",
+          "updated_at": 1759046737
         }
       ]
     },
@@ -1040,6 +1045,21 @@
           "path": "quotes/dont_add_that_to_the_soundboard.opus",
           "description": "Don't add that to the soundboard, don't add that to the soundboard",
           "updated_at": 1758787034
+        },
+        {
+          "path": "quotes/chat_kiss_each_other.opus",
+          "description": "Chat kiss each other",
+          "updated_at": 1759049976
+        },
+        {
+          "path": "quotes/dicksuckxia.opus",
+          "description": "uh I have dicksuxia",
+          "updated_at": 1759049976
+        },
+        {
+          "path": "quotes/goon_it_crazy_style.opus",
+          "description": "clean my room or goon it crazy style",
+          "updated_at": 1759049976
         }
       ]
     },
@@ -1506,6 +1526,11 @@
           "path": "seggs/masturbation_pet_play.opus",
           "description": "masturbation pet play kiled me because I couldn't get the gag off",
           "updated_at": 1757409321
+        },
+        {
+          "path": "seggs/cum_is_milk.m4a",
+          "description": "cum is milk and I'll die on this hill",
+          "updated_at": 1759050096
         }
       ]
     },
@@ -1877,6 +1902,21 @@
           "path": "noises/wtf_are_these.opus",
           "description": "wtf are these x4",
           "updated_at": 1758702640
+        },
+        {
+          "path": "noises/cralarm.m4a",
+          "description": "(creAlarm)",
+          "updated_at": 1759048097
+        },
+        {
+          "path": "noises/creGargle.opus",
+          "description": "(creGargle)",
+          "updated_at": 1759048100
+        },
+        {
+          "path": "noises/some_ah_ah_ah.opus",
+          "description": "Immana give you some uh uh uh and then give you some ah~ ah~ ah~",
+          "updated_at": 1759048153
         }
       ]
     },
@@ -2175,6 +2215,16 @@
           "path": "memes/have_wideamongusgaysex.opus",
           "description": "have WideAmongusGaySex",
           "updated_at": 1758702381
+        },
+        {
+          "path": "memes/crelouis.opus",
+          "description": "(creLouis) Petah",
+          "updated_at": 1759048022
+        },
+        {
+          "path": "memes/lets_go_gambling.opus",
+          "description": "Lets go gambling... oh dang it",
+          "updated_at": 1759048022
         }
       ]
     },
@@ -2226,6 +2276,11 @@
           "path": "hums/jingle.opus",
           "description": "(little jingle hum)",
           "updated_at": 1757388084
+        },
+        {
+          "path": "hums/buh_guh_hold_music.opus",
+          "description": "(buh guh hold music)",
+          "updated_at": 1759047983
         }
       ]
     },
