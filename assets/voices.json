@@ -1060,6 +1060,11 @@
           "path": "quotes/goon_it_crazy_style.opus",
           "description": "clean my room or goon it crazy style",
           "updated_at": 1759049976
+        },
+        {
+          "path": "quotes/tangerine.opus",
+          "description": "tangerine",
+          "updated_at": 1759123539
         }
       ]
     },
