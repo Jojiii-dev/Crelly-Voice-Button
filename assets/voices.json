@@ -429,6 +429,16 @@
           "path": "friends/fu_vandal.opus",
           "description": "FU verdantvadal (crelly's mod)",
           "updated_at": 1759046737
+        },
+        {
+          "path": "friends/vedal_crelly.opus",
+          "description": "(Vedal) CRELLY!",
+          "updated_at": 1765019206
+        },
+        {
+          "path": "friends/neuro_pathetic_crelly.opus",
+          "description": "(Neuro) pathetic crelly",
+          "updated_at": 1765019206
         }
       ]
     },
