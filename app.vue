@@ -67,7 +67,7 @@
           <img
             @click="playRandomSound()"
             src="/images/lil_guy.png"
-            class="bottom-0 left-auto right-auto cursor-pointer brightness-100 hover:brightness-75 transition-all duration-300 max-h-40 md:max-h-full"
+            class="bottom-0 left-auto right-auto cursor-pointer brightness-100 hover:brightness-75 transition-all duration-300 max-h-40 md:max-h-60"
           />
         </div>
         <VListItem
