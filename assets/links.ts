@@ -75,6 +75,13 @@ export const links: T_Link[][] = [
       },
       title: 'Aquwa Soundboard',
       url: 'https://aquwa.vercel.app'
+    },
+    {
+      icon: {
+        emoji: '🐊'
+      },
+      title: 'Cupidyle Soundboard',
+      url: 'https://cupidyle.vercel.app'
     }
   ],
   [

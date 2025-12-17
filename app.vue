@@ -5,8 +5,13 @@
         <VAppBarNavIcon @click="isDrawerOpen = !isDrawerOpen" />
       </template>
       <VAppBarTitle>
-        <div class="flex items-center">
+        <div class="flex items-center justify-between w-full">
           <NuxtLink class="font-bold" to="/">Crelly 🎱🐮 Soundboard</NuxtLink>
+          <img
+            @click="playRandomSound()"
+            src="/images/creLonely.gif"
+            class="max-h-16 pr-10 cursor-pointer brightness-100 hover:brightness-75 transition-all duration-300"
+          />
         </div>
       </VAppBarTitle>
     </VAppBar>
