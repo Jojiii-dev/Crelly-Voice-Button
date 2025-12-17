@@ -439,6 +439,26 @@
           "path": "friends/neuro_pathetic_crelly.opus",
           "description": "(Neuro) pathetic crelly",
           "updated_at": 1765019206
+        },
+        {
+          "path": "friends/l_karasu.opus",
+          "description": "L Karasu",
+          "updated_at": 1765940626
+        },
+        {
+          "path": "friends/its_karasu.opus",
+          "description": "It's Karasu",
+          "updated_at": 1765940626
+        },
+        {
+          "path": "friends/karasu_based.opus",
+          "description": "Karasu is such a based over achiever",
+          "updated_at": 1765940626
+        },
+        {
+          "path": "friends/maisy.opus",
+          "description": "(Maisy noises)",
+          "updated_at": 1765940802
         }
       ]
     },
@@ -1100,6 +1120,21 @@
           "path": "quotes/tight_squeeze.opus",
           "description": "tysm Immana give you guys such a tight squeeze tonight it's gonna be crazy ayo",
           "updated_at": 1760254176
+        },
+        {
+          "path": "quotes/aw_man_i_cummed_a_little.opus",
+          "description": "aw man i cummed a little",
+          "updated_at": 1765940773
+        },
+        {
+          "path": "quotes/you_like_this.mp3",
+          "description": "YOU LIKE THIS??",
+          "updated_at": 1765940773
+        },
+        {
+          "path": "quotes/press_one_plap.mp3",
+          "description": "press 1 for (plap noises)",
+          "updated_at": 1765940773
         }
       ]
     },
@@ -1982,6 +2017,16 @@
           "path": "noises/omg_im_gonna_burp.opus",
           "description": "omg I'm gonna burp (hic) ow",
           "updated_at": 1760254022
+        },
+        {
+          "path": "noises/lamp_ow.opus",
+          "description": "(lamp crashes) OW",
+          "updated_at": 1765940826
+        },
+        {
+          "path": "noises/ouch.opus",
+          "description": "OUCH",
+          "updated_at": 1765940836
         }
       ]
     },
@@ -2900,6 +2945,11 @@
           "path": "blush/treat_yourself.opus",
           "description": "You deserve to treat yourself with nice things",
           "updated_at": 1760253862
+        },
+        {
+          "path": "blush/low_cow_cosplay.opus",
+          "description": "I love a good cow cosplay",
+          "updated_at": 1765940509
         }
       ]
     },
